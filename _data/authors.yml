@@ -1,0 +1,13 @@
+Lindsey Kuper:
+  name        : "Lindsey Kuper"
+  avatar      : "https://users.soe.ucsc.edu/~lkuper/lindsey_kuper.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:lkuper@ucsc.edu"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "http://composition.al"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/lindsey"
