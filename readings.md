@@ -20,7 +20,7 @@ This list is neither sound (i.e., if something's listed here, that doesn't mean 
 | Monday, 10/14    | Lecture 7                                    | Lindsey              | TBD
 | Wednesday, 10/16 | Lecture 8                                    | Lindsey              | TBD
 | Friday, 10/18    | Lecture 9                                    | Lindsey              | TBD
-| Monday, 10/21    | Paper 1                                      | TBD                  | TBD
+| Monday, 10/21    | Paper 1                                      | Lindsey              | TBD
 | Wednesday, 10/23 | Paper 2                                      | TBD                  | TBD
 | Friday, 10/25    | Paper 3                                      | TBD                  | TBD
 | Monday, 10/28    | Paper 4                                      | TBD                  | TBD

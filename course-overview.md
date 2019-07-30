@@ -87,13 +87,11 @@ You may also be interested in time-tested paper-reading advice [from Michael Mit
 
 ### Response logistics
 
-Responses for each reading are due **by 11am on the day we discuss that reading in class** (see the [readings page](readings.md) for a schedule).  Late responses will not be accepted.
+Responses for each reading are due on Canvas **by 11am on the day we discuss that reading in class** (see the [readings page](readings.md) for a schedule).  Late responses will not be accepted.
 
-(TODO: finesse submission logistics) Responses should be written in Markdown format, with the filename `cruzid-response-YYYY-MM-DD.md`, replacing `cruzid` with your own CruzID.  For instance, if your CruzID number is 'lkuper' and you're submitting a response to the reading assignment for October 19, that response will go in a file called `lkuper-response-2019-10-19.md`.
+(TODO: more on submission logistics)
 
 You do not have to submit a response for readings that you're presenting (more about presentations in a minute).
-
-**Your first response is due Monday, so if you need help with GitHub or have questions about how this works, let me know ASAP!**
 
 _Free pass policy_: Because life throws unexpected challenges at each of us, you get three "free passes" to use during the quarter.  Using a free pass exempts you from having to submit a response for one reading.  If you want to use one of your free passes, just don't submit a response -- no need to email me.
 
