@@ -30,10 +30,9 @@ Hi, I'm [Lindsey Kuper](https://users.soe.ucsc.edu/~lkuper/)!
 
 Although SAT and SMT solvers are widely used across many areas of computer science, they are often "black boxes" to their users.  This course is for those who want to look under the hood and learn how solvers work, perhaps with the goal of implementing a new domain-specific solver or solver extension.
 
-The first part of the course will focus on SAT and SMT solver internals and will have a lecture format.  After that, the course will switch to a seminar format in which students will read and present papers on solver-aided programming tools (e.g., [Liquid Haskell](https://ucsd-progsys.github.io/liquidhaskell-blog/), [Rosette](https://emina.github.io/rosette/), [Potassco](https://potassco.org/)) and various applications of solvers and solver-aided programming, with a focus on distributed and/or data-intensive systems (e.g., [Quelea](http://kcsrk.info/papers/quelea_pldi15.pdf), [Q9](http://kcsrk.info/papers/oopsla18-q9.pdf),  [LogicBlox](http://www.cs.ox.ac.uk/dan.olteanu/papers/logicblox-sigmod15.pdf)).  The [readings page](http://composition.al/CSE290Q-2019-09/readings.html) has the current schedule of readings.
+The first part of the course will focus on SAT and SMT solver internals and will have a lecture format.  After that, the course will switch to a seminar format in which students will read and present papers on solver-aided languages (like [Dafny](https://rise4fun.com/Dafny/), [Liquid Haskell](https://ucsd-progsys.github.io/liquidhaskell-blog/) and [Rosette](https://emina.github.io/rosette/)), solver-aided systems (like [KLEE](https://klee.github.io/) and [Quelea](http://kcsrk.info/Quelea/)), and domain-specific solvers (like [Reluplex](https://arxiv.org/pdf/1702.01135.pdf).  The [readings page](readings.html) has the current schedule of readings.
 
-
-Students will be expected to carry out an independent research project of their own choosing that fits (perhaps loosely) with the course theme of SMT solvers and solver-aided systems.
+Students will be expected to carry out an independent research project of their own choosing that fits (perhaps loosely) with the course theme of SMT solving and solver-aided systems.
 
 ## Background you'll need
 
@@ -97,7 +96,7 @@ _Free pass policy_: Because life throws unexpected challenges at each of us, you
 
 ## Presentations
 
-Each student will present around two readings in class (the number could vary depending on how many students take the course and how many guest speakers we end up getting).
+Each student will present one or two readings in class (the number could vary depending on how many students take the course and how many guest speakers we end up getting).
 
 Presentations should be about 35 minutes long, leaving about 25 minutes for discussion, which the presenter will lead.  If you're the presenter, it's a good idea to have some suggested discussion questions to kick things off.  (You do not need to have the answers!)
 
@@ -109,9 +108,9 @@ These presentations do not need to be highly polished performances, like confere
 
 ### Choosing topics to present
 
-By next Monday, if you haven't done so yet, you should email me with a list of three to five [readings](http://composition.al/CSE290Q-2019-09/readings.html) you'd like to present.  I'll do my best to assign everyone the readings they want to present.
+By next Monday, if you haven't done so yet, you should email me with a list of three to five [readings](readings.html) you'd like to present.  I'll do my best to assign everyone the readings they want to present.
 
-If you have trouble coming up with three to five readings you want to present, pick from the ["further reading" section](http://composition.al/CSE290Q-2019-09/readings.html#further-reading) instead; if there's enough interest in those, then we can promote them to the regular schedule.
+If you have trouble coming up with three to five readings you want to present, pick from the ["further reading" section](readings.html#further-reading) instead; if there's enough interest in those, then we can promote them to the regular schedule.
 
 ### Advice on giving good talks
 
@@ -175,5 +174,5 @@ I encourage all students who may benefit from learning more about DRC services t
 TODO:
 
   - Make sure you have access to Canvas. (TODO)
-  - **For Monday, October 1**: If you haven't yet done so, look over the [list of readings](http://composition.al/CSE290Q-2019-09/readings.html), pick 2-4 papers that you'd like to present, and email me your choices.  (If you don't pick, I'll pick for you.)
-  - **For Monday, October 1**: Read the first reading assignment (TODO) and submit your response to Canvas (remember that [responses](http://composition.al/CSE290Q-2019-09/responses.html) are due by 11am on the day of class).
+  - **For Monday, October 1**: If you haven't yet done so, look over the [list of readings](readings.html), pick 2-4 papers that you'd like to present, and email me your choices.  (If you don't pick, I'll pick for you.)
+  - **For Monday, October 1**: Read the first reading assignment and submit your response to Canvas (remember that responses are due by 11am on the day of class).
