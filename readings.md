@@ -26,7 +26,7 @@ This list is subject to change, and it is neither sound (i.e., if something's li
 | Monday, 10/28    | \*pause for breath\*
 | Wednesday, 10/30 | Solver-aided systems                           | TBD                  | K. Rustan M. Leino, ["Dafny: an automatic program verifier for functional correctness" (LPAR 2010)](https://link.springer.com/chapter/10.1007/978-3-642-17511-4_20) ([off-campus access link (requires CruzID Gold login)](https://link-springer-com.oca.ucsc.edu/chapter/10.1007/978-3-642-17511-4_20))
 | Friday, 11/1     | Solver-aided systems                           | TBD                  | Vijay Ganesh and David L. Dill, ["A decision procedure for bit-vectors and arrays" (CAV 2007)](https://link.springer.com/chapter/10.1007/978-3-540-73368-3_52) ([off-campus access link (requires CruzID Gold login)](https://link-springer-com.oca.ucsc.edu/chapter/10.1007/978-3-540-73368-3_52))
-| Monday, 11/4     | Solver-aided systems                           | TBD                  | Cristian Cadar, Daniel Dunbar, and Dawson Engler, ["KLEE: unassisted and automatic generation of high-coverage tests for complex systems programs" (OSDI 2008)](https://www.usenix.org/legacy/events/osdi08/tech/full_papers/cadar/cadar.pdf)
+| Monday, 11/4     | Solver-aided systems                           | TBD                  | Cristian Cadar, Daniel Dunbar, and Dawson Engler, ["KLEE: unassisted and automatic generation of high-coverage tests for complex systems programs (OSDI 2008)](https://www.usenix.org/legacy/events/osdi08/tech/full_papers/cadar/cadar.pdf)
 | Wednesday, 11/6  | Solver-aided systems                           | TBD                  | Patrick M. Rondon, Ming Kawaguci, and Ranjit Jhala, ["Liquid types" (PLDI 2008)](https://dl.acm.org/citation.cfm?id=1375602) ([off-campus access link (requires CruzID Gold login)](https://dl-acm-org.oca.ucsc.edu/citation.cfm?id=1375602))
 | Friday, 11/8     | Solver-aided systems                           | TBD                  | Niki Vazou et al., ["Refinement types for Haskell" (ICFP 2014)](https://dl.acm.org/citation.cfm?id=2628161) ([off-campus access link (requires CruzID Gold login)](https://dl-acm-org.oca.ucsc.edu/citation.cfm?id=2628161))
 | Monday, 11/11    | No class (Veterans Day)
@@ -56,7 +56,6 @@ There's a vast amount of reading material that would be in scope for a course on
   - ...material on answer set programming systems with integrated solvers, such as:
     - Martin Gebser et al., ["Potassco: The Potsdam Answer Set Solving Collection" (_AI Communications_, 2011)](https://dl.acm.org/citation.cfm?id=1971623) ([off-campus access link (requires CruzID Gold login)](https://web-b-ebscohost-com.oca.ucsc.edu/ehost/pdfviewer/pdfviewer?vid=1&sid=4bf38049-468d-4ddd-840e-4795b3e5829a%40pdc-v-sessmgr01)) (see also: [the Potassco website](https://potassco.org/))
   - ...more work on solver-aided languages, such as:
-  https://dl.acm.org/citation.cfm?id=2804318
     - William T. Hallahan, Anton Xue, and Ruzica Piskac, ["G2Q: Haskell constraint solving" (Haskell Symposium 2019)](http://www.cs.yale.edu/homes/piskac/papers/2019HallahanETALquasiquoter.pdf)
     - Aaron Bembenek and Stephen Chong, ["FormuLog: Datalog for static analysis involving logical formulae" (2018)](https://arxiv.org/abs/1809.06274)
   - Etc., etc., etc.
