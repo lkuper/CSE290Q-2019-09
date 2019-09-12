@@ -55,8 +55,20 @@ There's a vast amount of reading material that would be in scope for a course on
 
   - ...material on answer set programming systems with integrated solvers, such as:
     - Martin Gebser et al., ["Potassco: The Potsdam Answer Set Solving Collection" (_AI Communications_, 2011)](https://dl.acm.org/citation.cfm?id=1971623) ([off-campus access link (requires CruzID Gold login)](https://web-b-ebscohost-com.oca.ucsc.edu/ehost/pdfviewer/pdfviewer?vid=1&sid=4bf38049-468d-4ddd-840e-4795b3e5829a%40pdc-v-sessmgr01)) (see also: [the Potassco website](https://potassco.org/))
+  - ...more work on solver-aided languages, such as:
+  https://dl.acm.org/citation.cfm?id=2804318
+    - William T. Hallahan, Anton Xue, and Ruzica Piskac, ["G2Q: Haskell constraint solving" (Haskell Symposium 2019)](http://www.cs.yale.edu/homes/piskac/papers/2019HallahanETALquasiquoter.pdf)
+    - Aaron Bembenek and Stephen Chong, ["FormuLog: Datalog for static analysis involving logical formulae" (2018)](https://arxiv.org/abs/1809.06274)
+  - Etc., etc., etc.
   
-  <!-- - TODO: Boolector paper? -->
+<!--
+
+TODO:
+
+Boolector paper?
+Ivory?
+
+-->
 
 <!--
 Lecture 1:
