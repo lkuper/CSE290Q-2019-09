@@ -2,7 +2,7 @@ title: "CSE290Q, Fall 2019"
 description: "SMT Solving and Solver-Aided Systems"
 
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "mint" # "air", "aqua", "contrast", "default", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "default", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 repository: "lkuper/CSE290Q-2019-09"
 
