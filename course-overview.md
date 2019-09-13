@@ -44,11 +44,9 @@ Students will be expected to carry out an independent research project of their 
 
 ## Background you'll need
 
-This course has the UCSC graduate PL course CSE210A (formerly CMPS203) as a prerequisite.  If you are interested in the topic but have not taken the prerequisite, I would nonetheless encourage you to take this course, as it will only be offered this one time.
+This course has the UCSC graduate PL course CSE210A (formerly CMPS203) as a prerequisite.  If you are interested in the topic but have not taken the prerequisite, I would nonetheless encourage you to take this course, as it will only be offered this one time.  To request a permission code to register, or if you have other questions about the course, contact me at <lkuper@ucsc.edu>.
 
 I won't assume any familiarity with SAT and SMT solver internals.  We'll mostly assume that you are familiar with the basics of **propositional logic**, but if you need a refresher, look at [Chapter 1 (Propositional Logic) of _The Calculus of Computation: Decision Procedures with Applications to Verification_](https://link.springer.com/chapter/10.1007/978-3-540-74113-8_1) by Aaron R. Bradley and Zohar Manna ([off-campus access link](https://link-springer-com.oca.ucsc.edu/chapter/10.1007/978-3-540-74113-8_1)).
-
-To request a permission code to register, or if you have other questions about the course, contact me at <lkuper@ucsc.edu>.
 
 ## Reading and responding to papers
 
