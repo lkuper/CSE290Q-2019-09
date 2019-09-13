@@ -118,9 +118,9 @@ These presentations do not need to be highly polished performances, like confere
 
 ### Choosing topics to present
 
-By next Monday, if you haven't done so yet, you should email me with a list of three to five [readings](readings.html) you'd like to present.  I'll do my best to assign everyone the readings they want to present.
+By next Monday, if you haven't done so yet, you should email me with a list of two to four [readings](readings.html) you'd like to present.  I'll do my best to assign everyone the readings they want to present.
 
-If you have trouble coming up with three to five readings you want to present, pick from the ["further reading" section](readings.html#further-reading) instead; if there's enough interest in those, then we can promote them to the regular schedule.
+If you have trouble coming up with two to four readings you want to present, pick from the ["further reading" section](readings.html#further-reading) instead; if there's enough interest in those readings, then we can promote them to the regular schedule.
 
 ### Advice on giving good talks
 
@@ -182,5 +182,5 @@ I encourage all students who may benefit from learning more about DRC services t
 TODO:
 
   - Make sure you have access to Canvas. (TODO)
-  - **For Monday, October 1**: If you haven't yet done so, look over the [list of readings](readings.html), pick 2-4 papers that you'd like to present, and email me your choices.  (If you don't pick, I'll pick for you.)
-  - **For Monday, October 1**: Read the first reading assignment and submit your response to Canvas (remember that responses are due by 11am on the day of class).
+  - **For Monday, September 30**: If you haven't yet done so, look over the [list of readings](readings.html), pick 2-4 papers that you'd like to present, and email me your choices.  (If you don't pick, I'll pick for you.)
+  - **For Monday, September 30**: Read the first reading assignment and submit your response on Canvas (remember that responses are due by 11am on the day of class).
