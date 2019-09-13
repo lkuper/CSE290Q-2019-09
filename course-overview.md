@@ -10,7 +10,7 @@ This is a first-day-of-class overview of the fall 2019 edition of CSE290Q ("SMT 
 
 ## Instructor
 
-Hi, I'm [Lindsey Kuper](https://users.soe.ucsc.edu/~lkuper/)!
+Hi, I'm [Lindsey Kuper](https://users.soe.ucsc.edu/~lkuper/)!  (Call me "Lindsey".)
 
   - Email: <lkuper@ucsc.edu>
   - Office location: Engineering 2, Room 349B
@@ -20,6 +20,7 @@ Hi, I'm [Lindsey Kuper](https://users.soe.ucsc.edu/~lkuper/)!
 ## A few essential details about the course
 
   - 5-unit graduate seminar course (i.e., a course where we read, present, and discuss research papers)
+  - Satisfies the [breadth requirement](https://www.soe.ucsc.edu/departments/computer-science-and-engineering/graduate/breadth-requirements) in the "Software Engineering and Programming Languages" category for the UCSC CS MS and Ph.D. programs
   - Class meets Mondays, Wednesdays, and Fridays, 2:40-3:45pm, Engineering 2, Room 192
   - No final exam, although you should save the time slot (8-11am on Thursday, December 12) for a social event
   - Course web page: <http://composition.al/CMPS290Q-2019-09/>
@@ -28,15 +29,26 @@ Hi, I'm [Lindsey Kuper](https://users.soe.ucsc.edu/~lkuper/)!
 
 ## What's this course about?
 
-Although SAT and SMT solvers are widely used across many areas of computer science, they are often "black boxes" to their users.  This course is for those who want to look under the hood and learn how solvers work, perhaps with the goal of implementing a new domain-specific solver or solver extension.
+[SAT](https://dl.acm.org/citation.cfm?id=1536637) and [SMT](https://en.wikipedia.org/wiki/Satisfiability_modulo_theories) solvers are now widely used across many areas of computer science, especially for automated software and hardware verification, but they are often "black boxes" to their users.  This course is for those who want to look under the hood to learn how solvers work, and to explore a variety of systems that make use of them.
 
 About three weeks of the course will focus on SAT and SMT solver internals and will have a lecture format.  Otherwise, the course will have a seminar format in which students will read and present papers on solver-aided languages (like [Dafny](https://rise4fun.com/Dafny/), [Liquid Haskell](https://ucsd-progsys.github.io/liquidhaskell-blog/), and [Rosette](https://emina.github.io/rosette/)), solver-aided systems (like [KLEE](https://klee.github.io/) and [Quelea](http://kcsrk.info/Quelea/)), and domain-specific solvers (like [Reluplex](https://arxiv.org/pdf/1702.01135.pdf)).  The [readings page](readings.html) has the current schedule of readings.
 
-Students will be expected to carry out an independent research project of their own choosing that fits (perhaps loosely) with the course theme of SMT solving and solver-aided systems.
+Some questions I want to explore include:
+
+ - How does one design systems amenable to SMT-based verification?
+ - Could solver-aided languages help us build solver-aided systems like Quelea?
+ - Under what circumstances are off-the-shelf SMT solvers too big/blunt/slow of a hammer for a given problem?  When should one build a custom solver as opposed to trying to find the right way to encode a problem for an existing solver?
+ - How can we make it easier for domain experts to implement their own domain-specific solvers or solver extensions in high-level languages?  Could (for instance) the Reluplex decision procedure be implemented in a high-level, "declarative" way and still be efficient?
+
+Students will be expected to carry out an independent research project of their own choosing that somehow fits with the course theme of SMT solving and solver-aided systems.
 
 ## Background you'll need
 
-This course will satisfy the [breadth requirement](https://www.soe.ucsc.edu/departments/computer-science-and-engineering/graduate/breadth-requirements) in the "Software Engineering and Programming Languages" category for the UCSC CS MS and Ph.D. programs.  It has the graduate PL course CSE210A (formerly CMPS203) as a prerequisite; if you are interested in the topic but have not taken the prerequisite, I would nonetheless encourage you to take this course, as it will only be offered this one time.  To request a permission code to register, or if you have other questions about the course, contact me at <lkuper@ucsc.edu>.
+This course has the UCSC graduate PL course CSE210A (formerly CMPS203) as a prerequisite.  If you are interested in the topic but have not taken the prerequisite, I would nonetheless encourage you to take this course, as it will only be offered this one time.
+
+I won't assume any familiarity with SAT and SMT solver internals.  We'll mostly assume that you are familiar with the basics of **propositional logic**, but if you need a refresher, look at [Chapter 1 (Propositional Logic) of _The Calculus of Computation: Decision Procedures with Applications to Verification_](https://link.springer.com/chapter/10.1007/978-3-540-74113-8_1) by Aaron R. Bradley and Zohar Manna ([off-campus access link](https://link-springer-com.oca.ucsc.edu/chapter/10.1007/978-3-540-74113-8_1)).
+
+To request a permission code to register, or if you have other questions about the course, contact me at <lkuper@ucsc.edu>.
 
 ## Reading and responding to papers
 
@@ -125,18 +137,16 @@ My most high-leverage tips:
 
 ## Course project
 
-Every participant in the course will carry out an independent project.  Expect to spend about 60 hours of work on the project over the course of the quarter.
+Every participant in the course will carry out an independent project.  Expect to spend about 50 hours of work on the project over the course of the quarter.
 
 (TODO: project details and logistics)
 
-  - Monday, 10/29: Project checkpoint 1
-  - Monday, 11/12: Project checkpoint 2
-  - Wednesday, 11/28: Project checkpoint 3
-  - Wednesday, 12/12: Hard deadline to have finished the project
+  - Friday, 10/25: Project checkpoint 1
+  - Monday, 11/11: Project checkpoint 2
+  - Wednesday, 11/27: Project checkpoint 3
+  - Wednesday, 12/4 and Friday, 12/6: In-class project presentations
 
 ## Grading
-
-TODO: homework?
 
   - Responses to readings: 25%
   - Participation in class discussion: 20%
