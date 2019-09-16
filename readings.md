@@ -68,23 +68,14 @@ There's a vast amount of reading material that would be in scope for a course on
     - Aaron Bembenek and Stephen Chong, [FormuLog: Datalog for static analysis involving logical formulae" (2018)](https://arxiv.org/abs/1809.06274)
 	- Trevor Elliott et al., [Guilt free Ivory (Haskell Symposium 2015)](https://dl.acm.org/citation.cfm?id=2804318) ([off-campus access link](https://dl-acm-org.oca.ucsc.edu/citation.cfm?id=2804318))
     - William T. Hallahan, Anton Xue, and Ruzica Piskac, [G2Q: Haskell constraint solving (Haskell Symposium 2019)](http://www.cs.yale.edu/homes/piskac/papers/2019HallahanETALquasiquoter.pdf)
+  - ...more work on solver design and implementation, such as:
+    - Robert Brummayer and Armin Biere, [Boolector: an efficient SMT solver for bit-vectors and arrays (TACAS 2009)](http://fmv.jku.at/papers/BrummayerBiere-TACAS09.pdf)
   - ...more work on solver-aided systems for ensuring consistency in distributed systems, such as:
     - Farzin Houshman and Mohsen Lesani, [Hamsaz: replication coordination analysis and synthesis (POPL 2019)](https://dl.acm.org/citation.cfm?doid=3302515.3290387).
   - ...follow-up work on Reluplex, such as:
     - Guy Katz et al., [The Marabou framework for verification and analysis of deep neural networks (CAV 2019)](https://link.springer.com/content/pdf/10.1007%2F978-3-030-25540-4_26.pdf)
   - Etc., etc., etc.
   
-<!--
-
-TODO:
-
-Boolector paper?
-Ivory?
-
-
-
--->
-
 <!--
 Lecture 1:
 sound and complete
