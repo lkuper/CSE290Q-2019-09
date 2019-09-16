@@ -31,7 +31,7 @@ This list is subject to change, and it is neither sound (i.e., if something's li
 | Friday, 11/8     | Solver-aided languages                         | TBD                  | Ali Sinan Köksal, Viktor Kuncak, and Philippe Suter, [Constraints as control (POPL 2012)](https://dl.acm.org/citation.cfm?id=2103675) ([off-campus access link](https://dl-acm-org.oca.ucsc.edu/citation.cfm?id=2103675))
 | Monday, 11/11    | No class (Veterans Day) **(Project checkpoint 2)**
 | Wednesday, 11/13 | Solver-aided languages                         | TBD                  | Emina Torlak and Rastislav Bodik, [Growing solver-aided languages with Rosette (Onward! 2013)](https://homes.cs.washington.edu/~emina/pubs/rosette.onward13.pdf)
-| Friday, 11/15    | Solver-aided languages                         | TBD                  | Emina Torlak and Rastislav Bodik, [A lightweight symbolic virtual machine for solver-aided host languages (PLDI 2014)](https://homes.cs.washington.edu/~emina/doc/rosette.pldi14.pdf)
+| Friday, 11/15    | Solver-aided languages                         | Guest lecture: [James Bornholt](https://www.cs.utexas.edu/~bornholt/) | James Bornholt and Emina Torlak, [Finding code that explodes under symbolic evaluation (OOPSLA 2018)](https://www.cs.utexas.edu/~bornholt/papers/sympro-oopsla18.pdf)
 | Monday, 11/18    | Solver-aided systems                           | TBD                  | Luke Nelson et al., [Hyperkernel: push-button verification of an OS kernel (SOSP 2017)](https://dl.acm.org/citation.cfm?id=3132748)
 | Wednesday, 11/20 | Solver-aided systems                           | TBD                  | Valter Balegas et al., [Putting consistency back into eventual consistency (EuroSys 2015)](https://dl.acm.org/citation.cfm?id=2741972) ([off-campus access link](https://dl-acm-org.oca.ucsc.edu/citation.cfm?id=2741972))
 | Friday, 11/22    | Solver-aided systems                           | TBD                  | KC Sivaramakrishnan, Gowtham Kaki, and Suresh Jagannathan, [Declarative Programming over Eventually Consistent Data Stores (PLDI 2015)](http://kcsrk.info/papers/quelea_pldi15.pdf)
@@ -63,6 +63,7 @@ There's a vast amount of reading material that would be in scope for a course on
   - ...material on answer set programming systems with integrated solvers, such as:
     - Martin Gebser et al., [Potassco: The Potsdam Answer Set Solving Collection (_AI Communications_, 2011)](https://dl.acm.org/citation.cfm?id=1971623) ([off-campus access link](https://web-b-ebscohost-com.oca.ucsc.edu/ehost/pdfviewer/pdfviewer?vid=1&sid=4bf38049-468d-4ddd-840e-4795b3e5829a%40pdc-v-sessmgr01)) (see also: [the Potassco website](https://potassco.org/))
   - ...more work on integration between a language and a solver, such as:
+    - Emina Torlak and Rastislav Bodik, [A lightweight symbolic virtual machine for solver-aided host languages (PLDI 2014)](https://homes.cs.washington.edu/~emina/doc/rosette.pldi14.pdf) (the follow-up to the Onward 2013 Rosette paper we're reading)
     - Richard Uhler and Nirav Dave, [Smten with satisfiability-based search (OOPSLA 2014)](https://dl.acm.org/citation.cfm?id=2714064.2660208) ([off-campus access link](https://dl-acm-org.oca.ucsc.edu/citation.cfm?id=2714064.2660208))
     - Aaron Bembenek and Stephen Chong, [FormuLog: Datalog for static analysis involving logical formulae" (2018)](https://arxiv.org/abs/1809.06274)
 	- Trevor Elliott et al., [Guilt free Ivory (Haskell Symposium 2015)](https://dl.acm.org/citation.cfm?id=2804318) ([off-campus access link](https://dl-acm-org.oca.ucsc.edu/citation.cfm?id=2804318))
@@ -79,6 +80,8 @@ TODO:
 
 Boolector paper?
 Ivory?
+
+
 
 -->
 
