@@ -8,6 +8,8 @@ classes: wide
 
 This list is subject to change, and it is neither sound (i.e., if something's listed here, that doesn't mean we'll read it) nor complete (i.e., if something's *not* listed here, that doesn't mean we *won't* read it).
 
+
+
 | Date             | Topic                                          | Presenter            | Reading
 |------------------|------------------------------------------------|----------------------|-----------------------------------------------------
 | Friday, 9/27     | [Course overview](course-overview.html)        | Lindsey              | (none)
@@ -16,31 +18,31 @@ This list is subject to change, and it is neither sound (i.e., if something's li
 | Friday, 10/4     | Introduction to decision procedures            | Lindsey              | Sections 1.4-1.7 (pp. 14-23) of Kroening and Strichman
 | Monday, 10/7     | Introduction to SAT solving                    | Lindsey              | Sections 2.1-2.2.3 (pp. 27-38) of Kroening and Strichman
 | Wednesday, 10/9  | Introduction to SAT solving                    | Lindsey              | Sections 2.2.4-2.2.9 (pp. 38-50) of Kroening and Strichman
-| Friday, 10/11    | Introduction to SMT solving                    | Lindsey              | Sections 3.1-3.3 (pp. 59-66) of Kroening and Strichman
-| Monday, 10/14    | Introduction to SMT solving                    | Lindsey              | Section 3.4 (pp. 66-72) of Kroening and Strichman
-| Wednesday, 10/16 | Theories: Equality and uninterpreted functions | Lindsey              | Sections 4.1-4.5 (pp. 77-91) of Kroening and Strichman
-| Friday, 10/18    | Theories: Linear arithmetic                    | Lindsey              | Sections 5.1-5.2 (pp. 97-106) of Kroening and Strichman
-| Monday, 10/21    | Theories: Linear arithmetic                    | Lindsey              | Sections 5.3 (pp. 106-111) and 5.7 (pp. 126-128) of Kroening and Strichman
-| Wednesday, 10/23 | Combining theories                             | Lindsey              | Sections 10.1-10.3 (pp. 229-240) of Kroening and Strichman
-| Friday, 10/25    | \*pause for breath\* **(Project checkpoint 1: project proposals due EOD)**
-| Monday, 10/28    | Solver-aided languages                         | TBD                  | K. Rustan M. Leino, [Dafny: an automatic program verifier for functional correctness (LPAR 2010)](https://link.springer.com/chapter/10.1007/978-3-642-17511-4_20) ([off-campus access link](https://link-springer-com.oca.ucsc.edu/chapter/10.1007/978-3-642-17511-4_20))
-| Wednesday, 10/30 | Solver design and implementation               | TBD                  | Vijay Ganesh and David L. Dill, [A decision procedure for bit-vectors and arrays (CAV 2007)](https://link.springer.com/chapter/10.1007/978-3-540-73368-3_52) ([off-campus access link](https://link-springer-com.oca.ucsc.edu/chapter/10.1007/978-3-540-73368-3_52))
-| Friday, 11/1     | Solver-aided systems                           | TBD                  | Cristian Cadar, Daniel Dunbar, and Dawson Engler, [KLEE: unassisted and automatic generation of high-coverage tests for complex systems programs (OSDI 2008)](https://www.usenix.org/legacy/events/osdi08/tech/full_papers/cadar/cadar.pdf)
+| Friday, 10/11    | Introduction to SMT solving                    | Lindsey              | Sections 3.1-3.4 (pp. 59-72) of Kroening and Strichman
+| Monday, 10/14    | Theories: Equality and uninterpreted functions | Lindsey              | Sections 4.1-4.5 (pp. 77-91) of Kroening and Strichman
+| Wednesday, 10/16 | Theories: Linear arithmetic                    | Lindsey              | Sections 5.1-5.2 (pp. 97-106) of Kroening and Strichman
+| Friday, 10/18    | Theories: Linear arithmetic                    | Lindsey              | Sections 5.3 (pp. 106-111) and 5.7 (pp. 126-128) of Kroening and Strichman
+| Monday, 10/21    | Combining theories                             | Lindsey              | Sections 10.1-10.3 (pp. 229-240) of Kroening and Strichman
+| Wednesday, 10/23 | Solver-aided languages                         | TBD                  | K. Rustan M. Leino, [Dafny: an automatic program verifier for functional correctness (LPAR 2010)](https://link.springer.com/chapter/10.1007/978-3-642-17511-4_20) ([off-campus access link](https://link-springer-com.oca.ucsc.edu/chapter/10.1007/978-3-642-17511-4_20))
+| Friday, 10/25    | Solver design and implementation               | TBD                  | Vijay Ganesh and David L. Dill, [A decision procedure for bit-vectors and arrays (CAV 2007)](https://link.springer.com/chapter/10.1007/978-3-540-73368-3_52) ([off-campus access link](https://link-springer-com.oca.ucsc.edu/chapter/10.1007/978-3-540-73368-3_52))
+| Monday, 10/28    | Solver-aided systems                           | TBD                  | Cristian Cadar, Daniel Dunbar, and Dawson Engler, [KLEE: unassisted and automatic generation of high-coverage tests for complex systems programs (OSDI 2008)](https://www.usenix.org/legacy/events/osdi08/tech/full_papers/cadar/cadar.pdf)
+| Wednesday, 10/30 | Solver-aided systems                           | TBD                  | Peter Alvaro, Joshua Rosen, and Joseph M. Hellerstein, [Lineage-driven fault injection (SIGMOD 2015)](https://people.ucsc.edu/~palvaro/molly.pdf)
+| Friday, 11/1     | \*pause for breath\* **(Project checkpoint 1: project proposals due EOD)**
 | Monday, 11/4     | Solver-aided languages                         | TBD                  | Patrick M. Rondon, Ming Kawaguci, and Ranjit Jhala, [Liquid types (PLDI 2008)](https://dl.acm.org/citation.cfm?id=1375602) ([off-campus access link](https://dl-acm-org.oca.ucsc.edu/citation.cfm?id=1375602))
 | Wednesday, 11/6  | Solver-aided languages                         | TBD                  | Niki Vazou et al., [Refinement types for Haskell (ICFP 2014)](https://dl.acm.org/citation.cfm?id=2628161) ([off-campus access link](https://dl-acm-org.oca.ucsc.edu/citation.cfm?id=2628161))
 | Friday, 11/8     | Solver-aided languages                         | TBD                  | Ali Sinan Köksal, Viktor Kuncak, and Philippe Suter, [Constraints as control (POPL 2012)](https://dl.acm.org/citation.cfm?id=2103675) ([off-campus access link](https://dl-acm-org.oca.ucsc.edu/citation.cfm?id=2103675))
-| Monday, 11/11    | No class (Veterans Day) **(Project checkpoint 2)**
+| Monday, 11/11    | No class (Veterans Day)
 | Wednesday, 11/13 | Solver-aided languages                         | TBD                  | Emina Torlak and Rastislav Bodik, [Growing solver-aided languages with Rosette (Onward! 2013)](https://homes.cs.washington.edu/~emina/pubs/rosette.onward13.pdf)
-| Friday, 11/15    | Solver-aided languages                         | Guest lecture: [James Bornholt](https://www.cs.utexas.edu/~bornholt/) | James Bornholt and Emina Torlak, [Finding code that explodes under symbolic evaluation (OOPSLA 2018)](https://www.cs.utexas.edu/~bornholt/papers/sympro-oopsla18.pdf)
+| Friday, 11/15    | Solver-aided languages **(Project checkpoint 2: project status update due EOD)** | Guest lecture: [James Bornholt](https://www.cs.utexas.edu/~bornholt/) | James Bornholt and Emina Torlak, [Finding code that explodes under symbolic evaluation (OOPSLA 2018)](https://www.cs.utexas.edu/~bornholt/papers/sympro-oopsla18.pdf)
 | Monday, 11/18    | Solver-aided systems                           | TBD                  | Luke Nelson et al., [Hyperkernel: push-button verification of an OS kernel (SOSP 2017)](https://dl.acm.org/citation.cfm?id=3132748)
 | Wednesday, 11/20 | Solver-aided systems                           | TBD                  | Valter Balegas et al., [Putting consistency back into eventual consistency (EuroSys 2015)](https://dl.acm.org/citation.cfm?id=2741972) ([off-campus access link](https://dl-acm-org.oca.ucsc.edu/citation.cfm?id=2741972))
 | Friday, 11/22    | Solver-aided systems                           | TBD                  | KC Sivaramakrishnan, Gowtham Kaki, and Suresh Jagannathan, [Declarative Programming over Eventually Consistent Data Stores (PLDI 2015)](http://kcsrk.info/papers/quelea_pldi15.pdf)
 | Monday, 11/25    | Solver design and implementation               | TBD                  | Guy Katz et al., [Reluplex: an efficient SMT solver for verifying deep neural networks (CAV 2017)](https://link.springer.com/chapter/10.1007/978-3-319-63387-9_5) ([extended version on arXiv](https://arxiv.org/pdf/1702.01135.pdf))
-| Wednesday, 11/27 | Why did I teach this course?  **(Project checkpoint 3)** | TBD                  | Lindsey Kuper and Peter Alvaro, [Toward domain-specific solvers for distributed consistency (SNAPL 2019)](http://drops.dagstuhl.de/opus/volltexte/2019/10553/)
+| Wednesday, 11/27 | Wrap-up                                        | Lindsey              | Lindsey Kuper and Peter Alvaro, [Toward domain-specific solvers for distributed consistency (SNAPL 2019)](http://drops.dagstuhl.de/opus/volltexte/2019/10553/)
 | Friday, 11/30    | No class (Thanksgiving)
 | Monday, 12/3     | **Project hack day (no class)**
 | Wednesday, 12/4  | Project presentations                          | TBD
-| Friday, 12/6     | Project presentations                          | TBD
+| Friday, 12/6     | Project presentations **(Projects due EOD)**   | TBD
 | Thursday, 12/12  | ~~final exam~~ end-of-quarter celebration at 10am | **(special location: [the LSD lab](https://twitter.com/lindsey/status/1050482295126126592) (Engineering 2, Room 398))** |
 
 ## Further reading
