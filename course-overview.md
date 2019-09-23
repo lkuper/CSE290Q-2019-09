@@ -23,9 +23,9 @@ Hi, I'm [Lindsey Kuper](https://users.soe.ucsc.edu/~lkuper/)!  (Call me "Lindsey
   - Satisfies the [breadth requirement](https://www.soe.ucsc.edu/departments/computer-science-and-engineering/graduate/breadth-requirements) in the "Software Engineering and Programming Languages" category for the UCSC CS MS and Ph.D. programs
   - Class meets Mondays, Wednesdays, and Fridays, 2:40-3:45pm, Engineering 2, Room 192
   - No final exam, although you should save the time slot (8-11am on Thursday, December 12) for a social event
-  - Course web page: <http://composition.al/CMPS290Q-2019-09/>
-  - Course GitHub repo: <https://github.com/lkuper/CMPS290Q-2019-09/>
-  - This document: <http://composition.al/CMPS290S-2019-09/course-overview.html>
+  - Course web page: <http://composition.al/CSE290Q-2019-09/>
+  - Course GitHub repo: <https://github.com/lkuper/CSE290Q-2019-09/>
+  - This document: <http://composition.al/CSE290Q-2019-09/course-overview.html>
 
 ## What's this course about?
 
