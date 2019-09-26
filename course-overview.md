@@ -142,7 +142,8 @@ My most high-leverage tips:
 
 ## Course project
 
-Every participant in the course will carry out an independent project.  Expect to spend about 30-40 hours of focused work on the project over the course of the quarter.  (Warning: **aim low**.  30-40 hours isn't actually that much time.)
+Every participant in the course will carry out an independent project.  
+A project requires substantial work (some combination of reading, writing, editing, programming, debugging, and thinking).  Expect to spend about 30-40 hours of focused work on the project over the course of the quarter.  (Warning: **aim low**.  30-40 hours isn't actually that much time.)
 
 ### Project idea: The research investigation
 
@@ -154,7 +155,7 @@ Negative or inconclusive results are fine!
 
 ### Project idea: The literature survey
 
-Choose several (at least three, but no more than six or so) related readings that have something to do with the topic of the course, read them, and write a survey paper analyzing them.
+Choose several (at least four, possibly many more) related readings that have something to do with the topic of the course, read them thoroughly, and write a survey paper analyzing them.
 
 At most one of your selected readings should be one we're already covering in class.  The idea is to use something we read in class as a jumping-off point to go off on your own, explore the literature on a specific topic, and come back with new insights.
 
@@ -175,8 +176,6 @@ Choose a "lightweight language mechanization" tool, such as [PLT Redex](https://
 There's a [good chance](https://eecs.northwestern.edu/~robby/lightweight-metatheory/popl2012-kcdeffmrtf.pdf) you'll find bugs or infelicities in the on-paper semantics!
 
 ### Project time frame
-
-A project requires substantial work (reading, writing, editing, programming, debugging, thinking).
 
   - Friday, 11/1 EOD: Project proposals due.  Submit an informal two-page writeup of the project you intend to do.  You are encouraged to come talk to me about your project idea beforehand.
   - Monday, 11/18-Friday 11/22: Project status update week.  Make a half-hour appointment to meet with me and show me what you've done on your project so far.  No need to write anything up.  Look at this as an opportunity to course-correct if your project is going sideways.
