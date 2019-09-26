@@ -65,10 +65,11 @@ There's a vast amount of reading material that would be in scope for a course on
 
   - ...material on answer set programming systems with integrated solvers, such as:
     - Martin Gebser et al., [Potassco: The Potsdam Answer Set Solving Collection (_AI Communications_, 2011)](https://dl.acm.org/citation.cfm?id=1971623) ([off-campus access link](https://web-b-ebscohost-com.oca.ucsc.edu/ehost/pdfviewer/pdfviewer?vid=1&sid=4bf38049-468d-4ddd-840e-4795b3e5829a%40pdc-v-sessmgr01)) (see also: [the Potassco website](https://potassco.org/))
-  - ...work on solver-based [superoptimizing](https://en.wikipedia.org/wiki/Superoptimization) compilers, such as these papers (which are [John Regehr](https://www.cs.utah.edu/~regehr/)'s recommendations):
+  - ...work on solver-based [superoptimizing](https://en.wikipedia.org/wiki/Superoptimization) compilers, such as these papers (which are [John Regehr](https://www.cs.utah.edu/~regehr/)'s and JF Bastien's recommendations):
     - Sorav Bansal and Alex Aiken, [Automatic generation of peephole superoptimizers (ASPLOS 2006)](https://theory.stanford.edu/~aiken/publications/papers/asplos06.pdf)
 	- Sumit Gulwani et al., [Synthesis of loop-free programs (PLDI 2011)](https://dl.acm.org/citation.cfm?id=1993506) ([off-campus access link](https://dl-acm-org.oca.ucsc.edu/citation.cfm?id=1993506))
 	- Sebastian Buchwald, [OPTGEN: A Generator for Local Optimizations (CC 2015)](https://link.springer.com/chapter/10.1007/978-3-662-46663-6_9) ([off-campus access link](https://link-springer-com.oca.ucsc.edu/content/pdf/10.1007%2F978-3-662-46663-6_9.pdf))
+	- Eric Schkufza, Rahul Sharma, and Alex Aiken, [Stochastic Superoptimization](https://cs.stanford.edu/people/eschkufz/docs/asplos_13.pdf)
   - ...more work on integration between a language and a solver, such as:
     - Emina Torlak and Rastislav Bodik, [A lightweight symbolic virtual machine for solver-aided host languages (PLDI 2014)](https://homes.cs.washington.edu/~emina/doc/rosette.pldi14.pdf) (the follow-up to the Onward 2013 Rosette paper we're reading)
     - Richard Uhler and Nirav Dave, [Smten with satisfiability-based search (OOPSLA 2014)](https://dl.acm.org/citation.cfm?id=2714064.2660208) ([off-campus access link](https://dl-acm-org.oca.ucsc.edu/citation.cfm?id=2714064.2660208))
