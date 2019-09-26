@@ -14,8 +14,8 @@ Hi, I'm [Lindsey Kuper](https://users.soe.ucsc.edu/~lkuper/)!  (Call me "Lindsey
 
   - Email: <lkuper@ucsc.edu>
   - Office location: Engineering 2, Room 349B
-  - Office hours: Wednesdays and Fridays, 11am-noon, or by appointment ([email me](mailto:lkuper@ucsc.edu))
-  - Research areas: Programming languages, distributed systems, parallelism, concurrency, verification
+  - Office hours: Fridays, 1:30-2:30pm, or by appointment ([email me](mailto:lkuper@ucsc.edu))
+  - Research areas: Programming languages, distributed systems, parallelism, concurrency, software verification
 
 ## A few essential details about the course
 
@@ -25,6 +25,7 @@ Hi, I'm [Lindsey Kuper](https://users.soe.ucsc.edu/~lkuper/)!  (Call me "Lindsey
   - No final exam, although you should save the time slot (8-11am on Thursday, December 12) for a social event
   - Course web page: <http://composition.al/CSE290Q-2019-09/>
   - Course GitHub repo: <https://github.com/lkuper/CSE290Q-2019-09/>
+  - Canvas: <https://canvas.ucsc.edu/courses/24461>
   - This document: <http://composition.al/CSE290Q-2019-09/course-overview.html>
 
 ## What's this course about?
@@ -46,11 +47,19 @@ Students will be expected to carry out an independent research project of their 
 
 This course has the UCSC graduate PL course CSE210A (formerly CMPS203) as a prerequisite.  If you are interested in the topic but have not taken the prerequisite, I would nonetheless encourage you to take this course, as it will only be offered this one time.  To request a permission code to register, or if you have other questions about the course, contact me at <lkuper@ucsc.edu>.
 
+Many of the papers we read will be what I'd classify as "PL papers".  Although the ideas often aren't too complicated, there's a high notational overhead in many PL papers, and there are a few standard concepts you'll want to be familiar with.
+
+_At a minimum_, you should be familiar with the concepts in Jeremy Siek's ["Crash Course on Notation in Programming Language Theory"](http://siek.blogspot.com/2012/07/crash-course-on-notation-in-programming.html).  Take some time to read it and brush up on anything you're not familiar with already.
+
+If you're not familiar with operational semantics of programming languages (or maybe even if you are!), watch [David Van Horn's excellent 45-minute tutorial video](https://www.youtube.com/watch?v=TU16mA5-i-g).
+
+Ask questions early when you come across notation you don't understand.  If you're confused, you're probably not the only one!
+
 I won't assume any familiarity with SAT and SMT solver internals.  We'll mostly assume that you are familiar with the basics of **propositional logic**, but if you need a refresher, look at [Chapter 1 (Propositional Logic) of _The Calculus of Computation: Decision Procedures with Applications to Verification_](https://link.springer.com/chapter/10.1007/978-3-540-74113-8_1) by Aaron R. Bradley and Zohar Manna ([off-campus access link](https://link-springer-com.oca.ucsc.edu/chapter/10.1007/978-3-540-74113-8_1)).
 
 ## Reading and responding to papers
 
-One goal of this course is to equip you to conduct research on solvers and solver-aided systems by absorbing a lot of papers on the topic.
+One goal of this course is to equip you to conduct research on SMT solvers and solver-aided systems by absorbing a lot of papers on the topic.
 
 One of the best ways to absorb reading material is to write about what you read.  So, each student in the course will write a short response to each reading.
 
@@ -64,7 +73,7 @@ Rather, your goal is to construct a rich mental map of existing work, which you 
 
 ### How to structure your response
 
-You can structure your response around the following questions:
+Try to structure your response around the following questions:
 
   1. What's this paper about?  (Summarize the paper and its contributions in your own words.)
   2. What's one thing I learned?
@@ -96,9 +105,7 @@ You may also be interested in time-tested paper-reading advice [from Michael Mit
 
 ### Response logistics
 
-Responses for each reading are due on Canvas **by 11am on the day we discuss that reading in class** (see the [readings page](readings.md) for a schedule).  Late responses will not be accepted.
-
-(TODO: more on submission logistics)
+Responses for each reading are due on Canvas **by noon on the day we discuss that reading in class** (see the [readings page](readings.md) for a schedule).  There will be a Canvas assignment for each reading.  Late responses will not be accepted.
 
 You do not have to submit a response for readings that you're presenting (more about presentations in a minute).
 
@@ -106,7 +113,7 @@ _Free pass policy_: Because life throws unexpected challenges at each of us, you
 
 ## Presentations
 
-Each student will present one or two readings in class (the number could vary depending on how many students take the course and how many guest speakers we end up getting).
+Each student will present at most two readings in class (the number could vary depending on how many students take the course and how many guest speakers we end up getting).
 
 Presentations should be about 35 minutes long, leaving about 25 minutes for discussion, which the presenter will lead.  If you're the presenter, it's a good idea to have some suggested discussion questions to kick things off.  (You do not need to have the answers!)
 
@@ -135,21 +142,53 @@ My most high-leverage tips:
 
 ## Course project
 
-Every participant in the course will carry out an independent project.  Expect to spend about 50 hours of work on the project over the course of the quarter.
+Every participant in the course will carry out an independent project.  Expect to spend about 30-40 hours of focused work on the project over the course of the quarter.  (Warning: **aim low**.  30-40 hours isn't actually that much time.)
 
-(TODO: project details and logistics)
+### Project idea: The research investigation
 
-  - Friday, 10/25: Project checkpoint 1
-  - Monday, 11/11: Project checkpoint 2
-  - Wednesday, 11/27: Project checkpoint 3
-  - Wednesday, 12/4 and Friday, 12/6: In-class project presentations
+Dig into one of the research questions that you identify while writing your responses to the readings.
+
+Carry out one of the concrete steps toward answering it (which might involve writing code, measuring performance, writing proofs, and/or something else), and write about what you learn.
+
+Negative or inconclusive results are fine!
+
+### Project idea: The literature survey
+
+Choose several (at least three, but no more than six or so) related readings that have something to do with the topic of the course, read them, and write a survey paper analyzing them.
+
+At most one of your selected readings should be one we're already covering in class.  The idea is to use something we read in class as a jumping-off point to go off on your own, explore the literature on a specific topic, and come back with new insights.
+
+Good sources of papers for a literature survey include the related work sections of things we read for class, or the ["further reading" section of the readings page](http://composition.al/CMPS290S-2018-09/readings.html#further-reading).
+
+### Project idea: The experience report
+
+Try out one or more of the systems discussed in the readings, and report on your experience.
+
+For this kind of project, you should expect to write code.  Aim higher than just "I got it to compile and run" -- ideally, you'll use the system to accomplish something cool, and report on what worked and what didn't.
+
+In many cases, it will be appropriate to try to reimplement a system from a paper we read, and reproduce the reported results.
+
+### Project idea: Run someone's research
+
+Choose a "lightweight language mechanization" tool, such as [PLT Redex](https://redex.racket-lang.org/) or [the K framework](http://www.kframework.org/index.php/Main_Page), and use it to mechanize and test a language or system model from one of the readings you did.  Report on what you learn from this process.
+
+There's a [good chance](https://eecs.northwestern.edu/~robby/lightweight-metatheory/popl2012-kcdeffmrtf.pdf) you'll find bugs or infelicities in the on-paper semantics!
+
+### Project time frame
+
+A project requires substantial work (reading, writing, editing, programming, debugging, thinking).
+
+  - Friday, 11/1 EOD: Project proposals due.  Submit an informal two-page writeup of the project you intend to do.  You are encouraged to come talk to me about your project idea beforehand.
+  - Monday, 11/18-Friday 11/22: Project status update week.  Make a half-hour appointment to meet with me and show me what you've done on your project so far.  No need to write anything up.  Look at this as an opportunity to course-correct if your project is going sideways.
+  - Wednesday, 12/4 and Friday, 12/6: In-class project presentations.  Give a polished 20-minute presentation to the class about your work.
+  - Friday, 12/6 EOD: Project reports due.  Submit an 8-12 page writeup of your project (the most appropriate length will vary, depending on the project).  You should be concerned about writing well; making your report a pleasure to read should be a priority.
 
 ## Grading
 
   - Responses to readings: 25%
   - Participation in class discussion: 20%
   - In-class presentations: 20%
-  - Course project: 35%
+  - Course project (includes project proposal, status update (i.e., you showed up and made an effort), in-class presentation, and project report): 35%
 
 As you can see, participation is a big part of your grade -- so make an effort to come to class.
 
@@ -167,9 +206,13 @@ If you discuss a reading with others in order to write your response, add a note
 
 It is part of your job as a scholar to understand [what counts as plagiarism](https://guides.library.ucsc.edu/citesources/plagiarism), and make sure you avoid it.
 
-## Similar courses
+## Related courses
 
-(TODO)
+The following courses have a good-sized overlap with this course:
+
+  - Emina Torlak's [CSE 507: Computer-Aided Reasoning for Software](https://courses.cs.washington.edu/courses/cse507/19au/) at UW
+  - [CS 357 Advanced Topics in Formal Methods](http://web.stanford.edu/class/cs357/) at Stanford
+  - Ranjit Jhala's [CSE291 Sp13: Algorithmic Software Verification](http://goto.ucsd.edu/~rjhala/classes/sp13/cse291/) at UCSD
 
 ## A note on accessibility
 
@@ -179,8 +222,5 @@ I encourage all students who may benefit from learning more about DRC services t
   
 ## To do
 
-TODO:
-
-  - Make sure you have access to Canvas. (TODO)
   - **For Monday, September 30**: If you haven't yet done so, look over the [list of readings](readings.html), pick 2-4 papers that you'd like to present, and email me your choices.  (If you don't pick, I'll pick for you.)
-  - **For Monday, September 30**: Read the first reading assignment and submit your response on Canvas (remember that responses are due by 11am on the day of class).
+  - **For Monday, September 30**: Read the first reading assignment and submit your response on Canvas (remember that responses are due by noon on the day of class).
