@@ -186,8 +186,18 @@ There's a [good chance](https://eecs.northwestern.edu/~robby/lightweight-metathe
 
   - Responses to readings: 25%
   - Participation in class discussion: 20%
-  - In-class presentations: 20%
-  - Course project (includes project proposal, status update (i.e., you showed up and made an effort), in-class presentation, and project report): 35%
+  - In-class reading presentations: 20%
+  - Course project (includes project proposal, status update (i.e., you showed up and made an effort), in-class project presentation, and project report): 35%
+
+<!--
+
+13 reading responses @ 5 points each = 65 points
+Class particpation = 52 points
+2 presentations @ 26 points each = 52 points
+Project = 91 points
+Total = 260 points
+
+-->
 
 As you can see, participation is a big part of your grade -- so make an effort to come to class.
 
