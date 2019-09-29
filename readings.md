@@ -48,13 +48,13 @@ This list is subject to change, and it is neither sound (i.e., if something's li
 
 ## Further reading
 
-We'll mostly assume that you are familiar with the basics of **propositional logic**, but if you need a refresher, look at [Chapter 1 (Propositional Logic) of _The Calculus of Computation: Decision Procedures with Applications to Verification_(2007)](https://link.springer.com/chapter/10.1007/978-3-540-74113-8_1) by Aaron R. Bradley and Zohar Manna ([off-campus access link](https://link-springer-com.oca.ucsc.edu/chapter/10.1007/978-3-540-74113-8_1)).
+### The first three weeks
 
-Bradley and Manna's book is also a good alternative resource for many of the other topics covered in Kroening and Strichman.
+We'll mostly assume that you are familiar with the basics of **propositional logic**, but if you need a refresher, look at [Chapter 1 (Propositional Logic) of _The Calculus of Computation: Decision Procedures with Applications to Verification_(2007)](https://link.springer.com/chapter/10.1007/978-3-540-74113-8_1) by Aaron R. Bradley and Zohar Manna ([off-campus access link](https://link-springer-com.oca.ucsc.edu/chapter/10.1007/978-3-540-74113-8_1)).  Bradley and Manna's book is also a good alternative resource for many of the other topics covered in Kroening and Strichman.
 
-The [_Handbook of Satisfiability_(2009)](https://www.iospress.nl/book/handbook-of-satisfiability/) [(off-campus access link to online edition)](https://ebookcentral-proquest-com.oca.ucsc.edu/lib/ucsc/detail.action?docID=448770), edited by A. Biere, M. Heule, H. van Maaren, and T. Walsh, is an excellent reference for many topics we'll be covering.
+The [_Handbook of Satisfiability_(2009)](https://www.iospress.nl/book/handbook-of-satisfiability/) [(off-campus access link to online edition)](https://ebookcentral-proquest-com.oca.ucsc.edu/lib/ucsc/detail.action?docID=448770), edited by A. Biere, M. Heule, H. van Maaren, and T. Walsh, is an excellent reference for many topics we'll be covering in the first three weeks of class
 
-A couple of slightly older CACM articles, in addition to the one we're reading, provide an approachable overview of SAT and SMT:
+A couple of slightly older CACM articles, in addition to the one we have as an assigned reading, provide an approachable overview of SAT and SMT:
 
   - Sharad Malik and Lintao Zhang, [Boolean satisfiability: from theoretical hardness to practical success (CACM 2009)](https://dl.acm.org/citation.cfm?id=1536637)
   - Leonardo de Moura and Nikolaj Bjørner, [Satisfiability modulo theories: introduction and applications (CACM 2011)](https://dl.acm.org/citation.cfm?id=1995394) ([off-campus access link](https://dl-acm-org.oca.ucsc.edu/citation.cfm?doid=1995376.1995394))
@@ -62,6 +62,8 @@ A couple of slightly older CACM articles, in addition to the one we're reading, 
 Many of the solver-aided languages and tools we use rely on the Z3 SMT solver.  The standard citation is: Leonardo de Moura and Nikolaj Bjørner, [Z3: an efficient SMT solver (TACAS 2008)](https://link.springer.com/chapter/10.1007/978-3-540-78800-3_24) ([off-campus access link](https://link-springer-com.oca.ucsc.edu/chapter/10.1007/978-3-540-78800-3_24)).  If you want to understand Z3, I suggest working through the [tutorial](https://rise4fun.com/Z3/tutorial/guide).
 
 Are you bored of academic papers about SMT?  Dennis Yurichev's [SAT/SMT by Example](https://yurichev.com/writings/SAT_SMT_by_example.pdf) is impressive and fun.
+
+### The rest of the course
 
 There's a vast amount of reading material that would be in scope for a course on SMT solving and solver-aided systems, but that this particular course won't have time to cover, including but not limited to:
 
