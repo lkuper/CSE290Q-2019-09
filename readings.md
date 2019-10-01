@@ -78,7 +78,7 @@ There's a vast amount of reading material that would be in scope for a course on
 	- Trevor Elliott et al., [Guilt free Ivory (Haskell Symposium 2015)](https://dl.acm.org/citation.cfm?id=2804318) ([off-campus access link](https://dl-acm-org.oca.ucsc.edu/citation.cfm?id=2804318))
     - William T. Hallahan, Anton Xue, and Ruzica Piskac, [G2Q: Haskell constraint solving (Haskell Symposium 2019)](http://www.cs.yale.edu/homes/piskac/papers/2019HallahanETALquasiquoter.pdf)
   - ...more work on solver design and implementation, such as:
-    - Robert Brummayer and Armin Biere, [Boolector: an efficient SMT solver for bit-vectors and arrays (TACAS 2009)](http://fmv.jku.at/papers/BrummayerBiere-TACAS09.pdf)
+    - Robert Brummayer and Armin Biere, [Boolector: an efficient SMT solver for bit-vectors and arrays (TACAS 2009)](http://fmv.jku.at/papers/BrummayerBiere-TACAS09.pdf) (see also: [many related publications from the Boolector team](https://boolector.github.io/publications.html))
   - ...more work on solver-aided systems for ensuring consistency in distributed systems, such as:
     - Farzin Houshman and Mohsen Lesani, [Hamsaz: replication coordination analysis and synthesis (POPL 2019)](https://dl.acm.org/citation.cfm?doid=3302515.3290387).
   - solver-aided systems for bug-finding and fault injection, such as:
