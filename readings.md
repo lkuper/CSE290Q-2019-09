@@ -85,6 +85,9 @@ There's a vast amount of reading material that would be in scope for a course on
     - Peter Alvaro, Joshua Rosen, and Joseph M. Hellerstein, [Lineage-driven fault injection (SIGMOD 2015)](https://people.ucsc.edu/~palvaro/molly.pdf)
   - ...follow-up work on Reluplex, such as:
     - Guy Katz et al., [The Marabou framework for verification and analysis of deep neural networks (CAV 2019)](https://link.springer.com/content/pdf/10.1007%2F978-3-030-25540-4_26.pdf)
+  - ...recent creative applications of SMT solvers across subfields of CS, such as:
+      - Emma Tosch et al., [PlanAlyzer: Assessing Threats to the Validity of Online Experiments (OOPSLA 2019)](https://arxiv.org/abs/1909.13649)
+      - Gabrielle Beck, Maximilian Zinkus, and Matthew Green, [Using SMT Solvers to Automate Chosen Ciphertext Attacks (2019)](https://eprint.iacr.org/2019/958)
   - Etc., etc., etc.
   
 <!--
