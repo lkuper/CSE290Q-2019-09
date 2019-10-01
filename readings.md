@@ -8,6 +8,14 @@ classes: wide
 
 This list is subject to change, and it is neither sound (i.e., if something's listed here, that doesn't mean we'll read it) nor complete (i.e., if something's *not* listed here, that doesn't mean we *won't* read it).
 
+<!--
+Still need to get prefs from:
+Clara, Akhil
+
+Have prefs from:
+Will, Zehui, Matthew, David C, David L, Gan
+-->
+
 | Date             | Topic                                          | Presenter            | Reading
 |------------------|------------------------------------------------|----------------------|-----------------------------------------------------
 | Friday, 9/27     | [Course overview](course-overview.html)        | Lindsey              | (none)
