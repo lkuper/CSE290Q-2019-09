@@ -27,9 +27,9 @@ Will, Zehui, Matthew, David L, Gan
 | Wednesday, 10/9  | Introduction to SAT solving                    | Lindsey              | Sections 2.2.4-2.2.9 (pp. 38-50) of Kroening and Strichman
 | Friday, 10/11    | Introduction to SMT solving                    | Lindsey              | Sections 3.1-3.4 (pp. 59-72) of Kroening and Strichman
 | Monday, 10/14    | Theories: Equality and uninterpreted functions | Lindsey              | Sections 4.1-4.5 (pp. 77-91) of Kroening and Strichman
-| Wednesday, 10/16 | Theories: Linear arithmetic                    | Lindsey              | Sections 5.1-5.2 (pp. 97-106) of Kroening and Strichman
-| Friday, 10/18    | Theories: Linear arithmetic                    | Lindsey              | Sections 5.3 (pp. 106-111) and 5.7 (pp. 126-128) of Kroening and Strichman
-| Monday, 10/21    | Combining theories                             | Lindsey              | Sections 10.1-10.3 (pp. 229-240) of Kroening and Strichman
+| Wednesday, 10/16 | Theories: Linear arithmetic                    | Lindsey              | Sections 5.1-5.3 (pp. 97-111) and 5.7 (pp. 126-128) of Kroening and Strichman
+| Friday, 10/18    | Combining theories                             | Lindsey              | Sections 10.1-10.3 (pp. 229-240) of Kroening and Strichman
+| Monday, 10/21    | \*pause for breath\*
 | Wednesday, 10/23 | Solver-aided languages                         | TBD                  | K. Rustan M. Leino, [Dafny: an automatic program verifier for functional correctness (LPAR 2010)](https://link.springer.com/chapter/10.1007/978-3-642-17511-4_20) ([off-campus access link](https://link-springer-com.oca.ucsc.edu/chapter/10.1007/978-3-642-17511-4_20))
 | Friday, 10/25    | Solver design and implementation               | TBD <!-- Will, Zehui -->    | Vijay Ganesh and David L. Dill, [A decision procedure for bit-vectors and arrays (CAV 2007)](https://link.springer.com/chapter/10.1007/978-3-540-73368-3_52) ([off-campus access link](https://link-springer-com.oca.ucsc.edu/chapter/10.1007/978-3-540-73368-3_52))
 | Monday, 10/28    | Solver-aided systems                           | TBD <!-- Matthew --> | Cristian Cadar, Daniel Dunbar, and Dawson Engler, [KLEE: unassisted and automatic generation of high-coverage tests for complex systems programs (OSDI 2008)](https://www.usenix.org/legacy/events/osdi08/tech/full_papers/cadar/cadar.pdf)
