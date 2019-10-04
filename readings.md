@@ -45,7 +45,7 @@ Will, Zehui, Matthew, David L, Gan
 | Wednesday, 11/20 | Solver-aided systems                           | TBD <!-- David L --> | Valter Balegas et al., [Putting consistency back into eventual consistency (EuroSys 2015)](https://dl.acm.org/citation.cfm?id=2741972) ([off-campus access link](https://dl-acm-org.oca.ucsc.edu/citation.cfm?id=2741972))
 | Friday, 11/22    | Solver-aided systems **(Project status update week ends)** | TBD      | KC Sivaramakrishnan, Gowtham Kaki, and Suresh Jagannathan, [Declarative Programming over Eventually Consistent Data Stores (PLDI 2015)](http://kcsrk.info/papers/quelea_pldi15.pdf)
 | Monday, 11/25    | Solver design and implementation               | TBD <!-- David L, Will --> | Guy Katz et al., [Reluplex: an efficient SMT solver for verifying deep neural networks (CAV 2017)](https://link.springer.com/chapter/10.1007/978-3-319-63387-9_5) ([extended version on arXiv](https://arxiv.org/pdf/1702.01135.pdf))
-| Wednesday, 11/27 | Wrap-up                                        | Lindsey              | Lindsey Kuper and Peter Alvaro, [Toward domain-specific solvers for distributed consistency (SNAPL 2019)](http://drops.dagstuhl.de/opus/volltexte/2019/10553/)
+| Wednesday, 11/27 | Wrap-up                                        | TBD                  | Eric Schkufza, Rahul Sharma, and Alex Aiken, [Stochastic superoptimization (ASPLOS 2013)](https://cs.stanford.edu/people/eschkufz/docs/asplos_13.pdf)
 | Friday, 11/30    | No class (Thanksgiving)
 | Monday, 12/3     | **Project hack day (no class)**
 | Wednesday, 12/4  | Project presentations                          | TBD
@@ -74,12 +74,11 @@ Are you bored of academic papers about SMT?  Dennis Yurichev's [SAT/SMT by Examp
 There's a vast amount of reading material that would be in scope for a course on SMT solving and solver-aided systems, but that this particular course won't have time to cover, including but not limited to:
 
   - ...material on answer set programming systems with integrated solvers, such as:
-    - Martin Gebser et al., [Potassco: The Potsdam Answer Set Solving Collection (_AI Communications_, 2011)](https://dl.acm.org/citation.cfm?id=1971623) ([off-campus access link](https://web-b-ebscohost-com.oca.ucsc.edu/ehost/pdfviewer/pdfviewer?vid=1&sid=4bf38049-468d-4ddd-840e-4795b3e5829a%40pdc-v-sessmgr01)) (see also: [the Potassco website](https://potassco.org/))
-  - ...work on solver-based [superoptimizing](https://en.wikipedia.org/wiki/Superoptimization) compilers, such as these papers (which are [John Regehr](https://www.cs.utah.edu/~regehr/)'s and JF Bastien's recommendations):
+    - Martin Gebser et al., [Potassco: the Potsdam answer set solving collection (_AI Communications_, 2011)](https://dl.acm.org/citation.cfm?id=1971623) ([off-campus access link](https://web-b-ebscohost-com.oca.ucsc.edu/ehost/pdfviewer/pdfviewer?vid=1&sid=4bf38049-468d-4ddd-840e-4795b3e5829a%40pdc-v-sessmgr01)) (see also: [the Potassco website](https://potassco.org/))
+  - ...more work on solver-based [superoptimizing](https://en.wikipedia.org/wiki/Superoptimization) compilers, such as these papers (which are [John Regehr](https://www.cs.utah.edu/~regehr/)'s and JF Bastien's recommendations):
     - Sorav Bansal and Alex Aiken, [Automatic generation of peephole superoptimizers (ASPLOS 2006)](https://theory.stanford.edu/~aiken/publications/papers/asplos06.pdf)
 	- Sumit Gulwani et al., [Synthesis of loop-free programs (PLDI 2011)](https://dl.acm.org/citation.cfm?id=1993506) ([off-campus access link](https://dl-acm-org.oca.ucsc.edu/citation.cfm?id=1993506))
 	- Sebastian Buchwald, [OPTGEN: a generator for local optimizations (CC 2015)](https://link.springer.com/chapter/10.1007/978-3-662-46663-6_9) ([off-campus access link](https://link-springer-com.oca.ucsc.edu/content/pdf/10.1007%2F978-3-662-46663-6_9.pdf))
-	- Eric Schkufza, Rahul Sharma, and Alex Aiken, [Stochastic superoptimization (ASPLOS 2013)](https://cs.stanford.edu/people/eschkufz/docs/asplos_13.pdf)
   - ...more work on integration between a language and a solver, such as:
     - Emina Torlak and Rastislav Bodik, [A lightweight symbolic virtual machine for solver-aided host languages (PLDI 2014)](https://homes.cs.washington.edu/~emina/doc/rosette.pldi14.pdf) (the follow-up to the Onward 2013 Rosette paper we're reading)
     - Richard Uhler and Nirav Dave, [Smten with satisfiability-based search (OOPSLA 2014)](https://dl.acm.org/citation.cfm?id=2714064.2660208) ([off-campus access link](https://dl-acm-org.oca.ucsc.edu/citation.cfm?id=2714064.2660208))
@@ -87,6 +86,7 @@ There's a vast amount of reading material that would be in scope for a course on
 	- Trevor Elliott et al., [Guilt free Ivory (Haskell Symposium 2015)](https://dl.acm.org/citation.cfm?id=2804318) ([off-campus access link](https://dl-acm-org.oca.ucsc.edu/citation.cfm?id=2804318))
     - William T. Hallahan, Anton Xue, and Ruzica Piskac, [G2Q: Haskell constraint solving (Haskell Symposium 2019)](http://www.cs.yale.edu/homes/piskac/papers/2019HallahanETALquasiquoter.pdf)
   - ...more work on solver design and implementation, such as:
+    - Adam Kiezun et al., [HAMPI: a solver for string constraints (ISSTA 2009)](http://people.csail.mit.edu/akiezun/issta54-kiezun.pdf) (builds on STP, which we're reading about)
     - Robert Brummayer and Armin Biere, [Boolector: an efficient SMT solver for bit-vectors and arrays (TACAS 2009)](http://fmv.jku.at/papers/BrummayerBiere-TACAS09.pdf) (see also: [many related publications from the Boolector team](https://boolector.github.io/publications.html))
   - ...more work on solver-aided systems for ensuring consistency in distributed systems, such as:
     - Farzin Houshman and Mohsen Lesani, [Hamsaz: replication coordination analysis and synthesis (POPL 2019)](https://dl.acm.org/citation.cfm?doid=3302515.3290387)
@@ -95,8 +95,9 @@ There's a vast amount of reading material that would be in scope for a course on
   - ...follow-up work on Reluplex, such as:
     - Guy Katz et al., [The Marabou framework for verification and analysis of deep neural networks (CAV 2019)](https://link.springer.com/content/pdf/10.1007%2F978-3-030-25540-4_26.pdf)
   - ...recent creative applications of SMT solvers across subfields of CS, such as:
-      - Emma Tosch et al., [PlanAlyzer: Assessing Threats to the Validity of Online Experiments (OOPSLA 2019)](https://arxiv.org/abs/1909.13649)
-      - Gabrielle Beck, Maximilian Zinkus, and Matthew Green, [Using SMT Solvers to Automate Chosen Ciphertext Attacks (2019)](https://eprint.iacr.org/2019/958)
+      - Emma Tosch et al., [PlanAlyzer: assessing threats to the validity of online experiments (OOPSLA 2019)](https://arxiv.org/abs/1909.13649)
+	  - Pavel Panchekha and Emina Torlak, [Automated reasoning for web page layout (OOPSLA 2016)](http://cassius.uwplse.org/oopsla16-paper.pdf)
+      - Gabrielle Beck, Maximilian Zinkus, and Matthew Green, [Using SMT solvers to automate chosen ciphertext attacks (2019)](https://eprint.iacr.org/2019/958)
   - Etc., etc., etc.
   
 <!--
