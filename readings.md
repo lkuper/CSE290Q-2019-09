@@ -56,7 +56,7 @@ Will, Zehui, Matthew, David L, Gan
 
 ### The first three weeks
 
-We'll mostly assume that you are familiar with the basics of **propositional logic**, but if you need a refresher, look at [Chapter 1 (Propositional Logic) of _The Calculus of Computation: Decision Procedures with Applications to Verification_(2007)](https://link.springer.com/chapter/10.1007/978-3-540-74113-8_1) by Aaron R. Bradley and Zohar Manna ([off-campus access link](https://link-springer-com.oca.ucsc.edu/chapter/10.1007/978-3-540-74113-8_1)).  Bradley and Manna's book is also a good alternative resource for many of the other topics covered in Kroening and Strichman.
+We'll mostly assume that you are familiar with the basics of **propositional logic**, but if you need a refresher, look at [Chapter 1 (Propositional Logic) of _The Calculus of Computation: Decision Procedures with Applications to Verification_ (2007)](https://link.springer.com/chapter/10.1007/978-3-540-74113-8_1) by Aaron R. Bradley and Zohar Manna ([off-campus access link](https://link-springer-com.oca.ucsc.edu/chapter/10.1007/978-3-540-74113-8_1)).  Bradley and Manna's book is also a good alternative resource for many of the other topics covered in Kroening and Strichman.
 
 The [_Handbook of Satisfiability_ (2009)](https://www.iospress.nl/book/handbook-of-satisfiability/) [(off-campus access link to online edition)](https://ebookcentral-proquest-com.oca.ucsc.edu/lib/ucsc/detail.action?docID=448770), edited by A. Biere, M. Heule, H. van Maaren, and T. Walsh, is an excellent reference for many topics we'll be covering in the first three weeks of class.
 
