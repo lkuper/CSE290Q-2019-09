@@ -85,6 +85,7 @@ There's a vast amount of reading material that would be in scope for a course on
   - ...follow-up work on Reluplex, such as:
     - Guy Katz et al., [The Marabou framework for verification and analysis of deep neural networks (CAV 2019)](https://link.springer.com/content/pdf/10.1007%2F978-3-030-25540-4_26.pdf)
   - ...recent creative applications of SMT solvers across subfields of CS, such as:
+      - Luke Nelson et al., [Hyperkernel: push-button verification of an OS kernel (SOSP 2017)](https://unsat.cs.washington.edu/papers/nelson-hyperkernel.pdf)
       - Emma Tosch et al., [PlanAlyzer: assessing threats to the validity of online experiments (OOPSLA 2019)](https://arxiv.org/abs/1909.13649)
       - Gabrielle Beck, Maximilian Zinkus, and Matthew Green, [Using SMT solvers to automate chosen ciphertext attacks (2019)](https://eprint.iacr.org/2019/958)
   - Etc., etc., etc.
