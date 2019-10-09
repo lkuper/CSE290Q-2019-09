@@ -8,17 +8,6 @@ classes: wide
 
 This list is subject to change, and it is neither sound (i.e., if something's listed here, that doesn't mean we'll read it) nor complete (i.e., if something's *not* listed here, that doesn't mean we *won't* read it).
 
-<!--
-Still need to get prefs from:
-Clara, Akhil
-
-Have prefs from:
-Will, Zehui, Matthew, David L, Gan
--->
-
-
-
-
 | Date             | Topic                                          | Presenter            | Reading
 |------------------|------------------------------------------------|----------------------|-----------------------------------------------------
 | Friday, 9/27     | [Course overview](course-overview.html)        | Lindsey              | (none)
@@ -88,7 +77,6 @@ There's a vast amount of reading material that would be in scope for a course on
 	- Trevor Elliott et al., [Guilt free Ivory (Haskell Symposium 2015)](https://dl.acm.org/citation.cfm?id=2804318) ([off-campus access link](https://dl-acm-org.oca.ucsc.edu/citation.cfm?id=2804318))
     - William T. Hallahan, Anton Xue, and Ruzica Piskac, [G2Q: Haskell constraint solving (Haskell Symposium 2019)](http://www.cs.yale.edu/homes/piskac/papers/2019HallahanETALquasiquoter.pdf)
   - ...more work on solver design and implementation, such as:
-    - 
     - Robert Brummayer and Armin Biere, [Boolector: an efficient SMT solver for bit-vectors and arrays (TACAS 2009)](http://fmv.jku.at/papers/BrummayerBiere-TACAS09.pdf) (see also: [many related publications from the Boolector team](https://boolector.github.io/publications.html))
   - ...more work on solver-aided systems for ensuring consistency in distributed systems, such as:
     - Farzin Houshman and Mohsen Lesani, [Hamsaz: replication coordination analysis and synthesis (POPL 2019)](https://dl.acm.org/citation.cfm?doid=3302515.3290387)
@@ -100,12 +88,3 @@ There's a vast amount of reading material that would be in scope for a course on
       - Emma Tosch et al., [PlanAlyzer: assessing threats to the validity of online experiments (OOPSLA 2019)](https://arxiv.org/abs/1909.13649)
       - Gabrielle Beck, Maximilian Zinkus, and Matthew Green, [Using SMT solvers to automate chosen ciphertext attacks (2019)](https://eprint.iacr.org/2019/958)
   - Etc., etc., etc.
-  
-<!--
-Lecture 1:
-sound and complete
-do problem 1.3 together or just look at example 1.15
-look at example 1.18
-look at example 1.19
-Tseitin's encoding and getting rid of the right-to-left implications
--->
