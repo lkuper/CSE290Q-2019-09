@@ -56,7 +56,7 @@ A couple of slightly older CACM articles, in addition to the one we have as an a
   - Sharad Malik and Lintao Zhang, [Boolean satisfiability: from theoretical hardness to practical success (CACM 2009)](https://dl.acm.org/citation.cfm?id=1536637)
   - Leonardo de Moura and Nikolaj Bjørner, [Satisfiability modulo theories: introduction and applications (CACM 2011)](https://dl.acm.org/citation.cfm?id=1995394) ([off-campus access link](https://dl-acm-org.oca.ucsc.edu/citation.cfm?doid=1995376.1995394))
 
-Many of the solver-aided languages and tools we use rely on the Z3 SMT solver.  The standard citation is: Leonardo de Moura and Nikolaj Bjørner, [Z3: an efficient SMT solver (TACAS 2008)](https://link.springer.com/chapter/10.1007/978-3-540-78800-3_24) ([off-campus access link](https://link-springer-com.oca.ucsc.edu/chapter/10.1007/978-3-540-78800-3_24)).  If you want to understand Z3, I suggest working through the [tutorial](https://rise4fun.com/Z3/tutorial/guide).
+Many solver-aided languages and systems rely on the Z3 SMT solver.  The standard citation is: Leonardo de Moura and Nikolaj Bjørner, [Z3: an efficient SMT solver (TACAS 2008)](https://link.springer.com/chapter/10.1007/978-3-540-78800-3_24) ([off-campus access link](https://link-springer-com.oca.ucsc.edu/chapter/10.1007/978-3-540-78800-3_24)).  If you want to become familiar with Z3, check out the [tutorial](http://theory.stanford.edu/~nikolaj/programmingz3.html) and [interactive guide](https://rise4fun.com/Z3/tutorial/guide).
 
 Are you bored of academic papers about SMT?  Dennis Yurichev's [SAT/SMT by Example](https://yurichev.com/writings/SAT_SMT_by_example.pdf) is impressive and fun.
 
