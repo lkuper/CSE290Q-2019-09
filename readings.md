@@ -19,7 +19,7 @@ This list is subject to change, and it is neither sound (i.e., if something's li
 | Friday, 10/11    | Introduction to SMT solving                    | Lindsey              | Sections 3.1-3.4 (pp. 59-72) of Kroening and Strichman
 | Monday, 10/14    | Theories: Equality and uninterpreted functions | Lindsey              | Sections 4.1-4.5 (pp. 77-91) of Kroening and Strichman
 | Wednesday, 10/16 | Theories: Linear arithmetic                    | Lindsey              | Sections 5.1-5.3 (pp. 97-111) and 5.7 (pp. 126-128) of Kroening and Strichman
-| Friday, 10/18    | Combining theories                             | Lindsey              | Sections 10.1-10.3 (pp. 229-240) of Kroening and Strichman
+| Friday, 10/18    | Solver design and implementation               | Sam                  | TBD
 | Monday, 10/21    | Solver design and implementation               | Will                 | Vijay Ganesh and David L. Dill, [A decision procedure for bit-vectors and arrays (CAV 2007)](https://link.springer.com/chapter/10.1007/978-3-540-73368-3_52) ([off-campus access link](https://link-springer-com.oca.ucsc.edu/chapter/10.1007/978-3-540-73368-3_52))
 | Wednesday, 10/23 | Solver design and implementation               | Clara                | Adam Kiezun et al., [HAMPI: a solver for string constraints (ISSTA 2009)](http://people.csail.mit.edu/akiezun/issta54-kiezun.pdf)
 | Friday, 10/25    | Solver-aided systems                           | Matthew              | Cristian Cadar, Daniel Dunbar, and Dawson Engler, [KLEE: unassisted and automatic generation of high-coverage tests for complex systems programs (OSDI 2008)](https://www.usenix.org/legacy/events/osdi08/tech/full_papers/cadar/cadar.pdf)
@@ -38,7 +38,7 @@ This list is subject to change, and it is neither sound (i.e., if something's li
 | Monday, 11/25    | Solver-aided systems                           | Zehui                | Pavel Panchekha and Emina Torlak, [Automated reasoning for web page layout (OOPSLA 2016)](https://dl.acm.org/citation.cfm?id=2984010)
 | Wednesday, 11/27 | Solver design and implementation               | Will                 | Guy Katz et al., [Reluplex: an efficient SMT solver for verifying deep neural networks (CAV 2017)](https://link.springer.com/chapter/10.1007/978-3-319-63387-9_5) ([extended version on arXiv](https://arxiv.org/pdf/1702.01135.pdf))
 | Friday, 11/30    | No class (Thanksgiving)
-| Monday, 12/3     | **Project hack day (no class)**
+| Monday, 12/3     | Solver-aided systems                           | Sam                  | Luke Nelson et al., [Hyperkernel: push-button verification of an OS kernel (SOSP 2017)](https://unsat.cs.washington.edu/papers/nelson-hyperkernel.pdf)
 | Wednesday, 12/4  | Project presentations                          | TBD
 | Friday, 12/6     | Project presentations **(Project reports due EOD)**   | TBD
 | Thursday, 12/12  | ~~final exam~~ end-of-quarter celebration at 10am | **(special location: [the LSD lab](https://twitter.com/lindsey/status/1050482295126126592) (Engineering 2, Room 398))** |
@@ -85,7 +85,6 @@ There's a vast amount of reading material that would be in scope for a course on
   - ...follow-up work on Reluplex, such as:
     - Guy Katz et al., [The Marabou framework for verification and analysis of deep neural networks (CAV 2019)](https://link.springer.com/content/pdf/10.1007%2F978-3-030-25540-4_26.pdf)
   - ...recent creative applications of SMT solvers across subfields of CS, such as:
-      - Luke Nelson et al., [Hyperkernel: push-button verification of an OS kernel (SOSP 2017)](https://unsat.cs.washington.edu/papers/nelson-hyperkernel.pdf)
       - Emma Tosch et al., [PlanAlyzer: assessing threats to the validity of online experiments (OOPSLA 2019)](https://arxiv.org/abs/1909.13649)
       - Gabrielle Beck, Maximilian Zinkus, and Matthew Green, [Using SMT solvers to automate chosen ciphertext attacks (2019)](https://eprint.iacr.org/2019/958)
   - Etc., etc., etc.
