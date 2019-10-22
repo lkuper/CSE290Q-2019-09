@@ -217,11 +217,13 @@ It is part of your job as a scholar to understand [what counts as plagiarism](ht
 
 ## Related courses
 
-The following courses have a good-sized overlap with this course:
+A non-exhaustive list of courses at other institutions that have a good-sized overlap with this course's material:
 
-  - Emina Torlak's [CSE 507: Computer-Aided Reasoning for Software](https://courses.cs.washington.edu/courses/cse507/19au/) at UW
+  - Emina Torlak's [CSE 507: Computer-Aided Reasoning for Software](https://courses.cs.washington.edu/courses/cse507/19au/) at UW (see also [previous offerings](https://courses.cs.washington.edu/courses/cse507/) of the course)
   - [CS 357 Advanced Topics in Formal Methods](http://web.stanford.edu/class/cs357/) at Stanford
-  - Ranjit Jhala's [CSE291 Sp13: Algorithmic Software Verification](http://goto.ucsd.edu/~rjhala/classes/sp13/cse291/) at UCSD
+  - Marijn Heule and Ruben Martins's fall 2019 offering of [Advanced Topics in Logic: Automated Reasoning and Satisfiability](http://www.cs.cmu.edu/~mheule/15816-f19/index.html) at CMU
+  - Işıl Dillig's [Automated Logical Reasoning](http://www.cs.utexas.edu/~isil/cs389L/) at UT Austin
+  - Ranjit Jhala's spring 2013 offering of [CSE291: Algorithmic Software Verification](http://goto.ucsd.edu/~rjhala/classes/sp13/cse291/) at UCSD
 
 ## A note on accessibility
 
