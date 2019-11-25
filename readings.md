@@ -19,7 +19,7 @@ This list is subject to change, and it is neither sound (i.e., if something's li
 | Friday, 10/11    | Introduction to SMT solving                    | Lindsey              | Sections 3.1-3.4 (pp. 59-72) of Kroening and Strichman
 | Monday, 10/14    | Theories: Equality and uninterpreted functions | Lindsey              | Sections 4.1-4.5 (pp. 77-91) of Kroening and Strichman
 | Wednesday, 10/16 | Theories: Linear arithmetic                    | Lindsey              | Sections 5.1-5.2 (pp. 97-106) and 5.7 (pp. 126-128) of Kroening and Strichman
-| Friday, 10/18    | Solver-aided systems                           | Sam                  | Cristian Cadar et al., [EXE: automatically generating inputs of death (CCS 2006)](https://web.stanford.edu/~engler/exe-ccs-06.pdf)
+| Friday, 10/18    | Solver-aided systems                           | Samuel               | Cristian Cadar et al., [EXE: automatically generating inputs of death (CCS 2006)](https://web.stanford.edu/~engler/exe-ccs-06.pdf)
 | Monday, 10/21    | Solver design and implementation               | Will                 | Vijay Ganesh and David L. Dill, [A decision procedure for bit-vectors and arrays (CAV 2007)](https://link.springer.com/chapter/10.1007/978-3-540-73368-3_52) ([off-campus access link](https://link-springer-com.oca.ucsc.edu/chapter/10.1007/978-3-540-73368-3_52))
 | Wednesday, 10/23 | Solver design and implementation               | Clara                | Adam Kiezun et al., [HAMPI: a solver for string constraints (ISSTA 2009)](http://people.csail.mit.edu/akiezun/issta54-kiezun.pdf)
 | Friday, 10/25    | Solver-aided systems                           | Matthew              | Cristian Cadar, Daniel Dunbar, and Dawson Engler, [KLEE: unassisted and automatic generation of high-coverage tests for complex systems programs (OSDI 2008)](https://www.usenix.org/legacy/events/osdi08/tech/full_papers/cadar/cadar.pdf)
@@ -38,7 +38,7 @@ This list is subject to change, and it is neither sound (i.e., if something's li
 | Monday, 11/25    | Solver-aided systems                           | Zehui                | Pavel Panchekha and Emina Torlak, [Automated reasoning for web page layout (OOPSLA 2016)](https://dl.acm.org/citation.cfm?id=2984010)
 | Wednesday, 11/27 | Solver design and implementation               | Will                 | Guy Katz et al., [Reluplex: an efficient SMT solver for verifying deep neural networks (CAV 2017)](https://link.springer.com/chapter/10.1007/978-3-319-63387-9_5) ([extended version on arXiv](https://arxiv.org/pdf/1702.01135.pdf))
 | Friday, 11/30    | No class (Thanksgiving)
-| Monday, 12/2     | Solver-aided systems                           | Sam                  | Luke Nelson et al., [Hyperkernel: push-button verification of an OS kernel (SOSP 2017)](https://unsat.cs.washington.edu/papers/nelson-hyperkernel.pdf)
+| Monday, 12/2     | Solver-aided systems                           | Samuel               | Luke Nelson et al., [Hyperkernel: push-button verification of an OS kernel (SOSP 2017)](https://unsat.cs.washington.edu/papers/nelson-hyperkernel.pdf)
 | Wednesday, 12/4  | 15-minute project presentations                          | Zehui, Will, David, Matthew
 | Friday, 12/6     | Project presentations **(Project reports due EOD)**   | Samuel, Clara, Gan, Akhil
 | Thursday, 12/12  | ~~final exam~~ end-of-quarter celebration at 10am | **(special location: [the LSD lab](https://twitter.com/lindsey/status/1050482295126126592) (Engineering 2, Room 398))** |
