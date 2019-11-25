@@ -179,7 +179,7 @@ There's a [good chance](https://eecs.northwestern.edu/~robby/lightweight-metathe
 
   - Friday, 11/1 EOD: Project proposals due.  Submit an informal two-page writeup of the project you intend to do.  You are encouraged to come talk to me about your project idea beforehand.
   - Monday, 11/18-Friday 11/22: Project status update week.  Make a half-hour appointment to meet with me and show me what you've done on your project so far.  No need to write anything up.  Look at this as an opportunity to course-correct if your project is going sideways.
-  - Wednesday, 12/4 and Friday, 12/6: In-class project presentations.  Give a polished 20-minute presentation to the class about your work.
+  - Wednesday, 12/4 and Friday, 12/6: In-class project presentations.  Give a polished 15-minute presentation to the class about your work.
   - Friday, 12/6 EOD: Project reports due.  Submit an 8-12 page writeup of your project (the most appropriate length will vary, depending on the project).  You should be concerned about writing well; making your report a pleasure to read should be a priority.
 
 ## Grading
