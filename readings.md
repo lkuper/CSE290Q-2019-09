@@ -15,7 +15,7 @@ This list is subject to change, and it is neither sound (i.e., if something's li
 | Wednesday, 10/2  | Introduction to decision procedures            | Lindsey              | Sections 1.0-1.3 (pp. 1-14) of Daniel Kroening and Ofer Strichman, [_Decision Procedures: An Algorithmic Point of View_, second edition (2016)](https://link.springer.com/book/10.1007%2F978-3-662-50497-0) ([off-campus access link](https://link-springer-com.oca.ucsc.edu/book/10.1007%2F978-3-662-50497-0))
 | Friday, 10/4     | Introduction to decision procedures            | Lindsey              | Sections 1.4-1.7 (pp. 14-23) of Kroening and Strichman
 | Monday, 10/7     | Introduction to SAT solving                    | Lindsey              | Sections 2.1-2.2.3 (pp. 27-38) of Kroening and Strichman
-| Wednesday, 10/9  | **Class cancelled due to power outage (please see lecture notes shared on Canvas)** | Sections 2.2.4-2.2.9 (pp. 38-50) of Kroening and Strichman
+| Wednesday, 10/9  | **Class cancelled due to power outage (please see lecture notes shared on Canvas)** | | Sections 2.2.4-2.2.9 (pp. 38-50) of Kroening and Strichman
 | Friday, 10/11    | Introduction to SMT solving                    | Lindsey              | Sections 3.1-3.4 (pp. 59-72) of Kroening and Strichman
 | Monday, 10/14    | Theories: Equality and uninterpreted functions | Lindsey              | Sections 4.1-4.5 (pp. 77-91) of Kroening and Strichman
 | Wednesday, 10/16 | Theories: Linear arithmetic                    | Lindsey              | Sections 5.1-5.2 (pp. 97-106) and 5.7 (pp. 126-128) of Kroening and Strichman
