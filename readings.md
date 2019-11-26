@@ -40,7 +40,7 @@ This list is subject to change, and it is neither sound (i.e., if something's li
 | Friday, 11/30    | No class (Thanksgiving)
 | Monday, 12/2     | Solver-aided systems                           | Samuel               | Luke Nelson et al., [Hyperkernel: push-button verification of an OS kernel (SOSP 2017)](https://unsat.cs.washington.edu/papers/nelson-hyperkernel.pdf)
 | Wednesday, 12/4  | 15-minute project presentations                          | Zehui, Will, David, Matthew
-| Friday, 12/6     | Project presentations **(Project reports due EOD)**   | Samuel, Clara, Gan, Akhil
+| Friday, 12/6     | 15-minute project presentations **(Project reports due EOD)**   | Samuel, Clara, Gan, Akhil
 | Thursday, 12/12  | ~~final exam~~ end-of-quarter celebration at 10am | **(special location: [the LSD lab](https://twitter.com/lindsey/status/1050482295126126592) (Engineering 2, Room 398))** |
 
 ## Further reading
