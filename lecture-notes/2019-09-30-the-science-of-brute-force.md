@@ -383,8 +383,6 @@ It turns out that this is actually pretty easy to check, though.  If you have a 
 
 So, to check a proof of unsatisfiability, we just need a list of all the clauses that were learned and added, and then we use BCP to check the proof.  It's surprisingly straightforward! 
 
-[TODO: make sure I understand the example figure 2]
-
 We don't have time to go into more detail about this, but the citation for this if you want to know more is "Verification of Proofs of Unsatisfiability for CNF Formulas" by Goldberg and Novikov (2003).  The paper is only six pages long.
 
 There's more stuff in the article about what it means to be solutions-preserving modulo a particular variable, but we don't have time to get into that.
