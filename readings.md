@@ -8,17 +8,19 @@ classes: wide
 
 This list is subject to change, and it is neither sound (i.e., if something's listed here, that doesn't mean we'll read it) nor complete (i.e., if something's *not* listed here, that doesn't mean we *won't* read it).
 
+Links in the "Topic" column for the first three weeks of class link to lecture notes for those topics.  After that, we'll dispense with the lecture format and move to student presentations.
+
 | Date             | Topic                                          | Presenter            | Reading
 |------------------|------------------------------------------------|----------------------|-----------------------------------------------------
 | Friday, 9/27     | [Course overview](course-overview.html)        | Lindsey              | (none)
-| Monday, 9/30     | The big picture                                | Lindsey              | Marijn J. H. Heule and Oliver Kullmann, [The science of brute force (CACM 2017)](https://dl.acm.org/citation.cfm?id=3107239)
-| Wednesday, 10/2  | Introduction to decision procedures            | Lindsey              | Sections 1.0-1.3 (pp. 1-14) of Daniel Kroening and Ofer Strichman, [_Decision Procedures: An Algorithmic Point of View_, second edition (2016)](https://link.springer.com/book/10.1007%2F978-3-662-50497-0) ([off-campus access link](https://link-springer-com.oca.ucsc.edu/book/10.1007%2F978-3-662-50497-0))
-| Friday, 10/4     | Introduction to decision procedures            | Lindsey              | Sections 1.4-1.7 (pp. 14-23) of Kroening and Strichman
-| Monday, 10/7     | Introduction to SAT solving                    | Lindsey              | Sections 2.1-2.2.3 (pp. 27-38) of Kroening and Strichman
-| Wednesday, 10/9  | **Class cancelled due to power outage (please see lecture notes shared on Canvas)** | | Sections 2.2.4-2.2.9 (pp. 38-50) of Kroening and Strichman
-| Friday, 10/11    | Introduction to SMT solving                    | Lindsey              | Sections 3.1-3.4 (pp. 59-72) of Kroening and Strichman
-| Monday, 10/14    | Theories: Equality and uninterpreted functions | Lindsey              | Sections 4.1-4.5 (pp. 77-91) of Kroening and Strichman
-| Wednesday, 10/16 | Theories: Linear arithmetic                    | Lindsey              | Sections 5.1-5.2 (pp. 97-106) and 5.7 (pp. 126-128) of Kroening and Strichman
+| Monday, 9/30     | ["The science of brute force"](lecture-notes/2019-09-30-the-science-of-brute-force.pdf) | Lindsey | Marijn J. H. Heule and Oliver Kullmann, [The science of brute force (CACM 2017)](https://dl.acm.org/citation.cfm?id=3107239)
+| Wednesday, 10/2  | [Introduction to decision procedures, part 1](lecture-notes/2019-10-02-introduction-to-decision-procedures-1.pdf) | Lindsey | Sections 1.0-1.3 (pp. 1-14) of Daniel Kroening and Ofer Strichman, [_Decision Procedures: An Algorithmic Point of View_, second edition (2016)](https://link.springer.com/book/10.1007%2F978-3-662-50497-0) ([off-campus access link](https://link-springer-com.oca.ucsc.edu/book/10.1007%2F978-3-662-50497-0))
+| Friday, 10/4     | [Introduction to decision procedures, part 2](lecture-notes/2019-10-04-introduction-to-decision-procedures-2.pdf) | Lindsey | Sections 1.4-1.7 (pp. 14-23) of Kroening and Strichman
+| Monday, 10/7     | [Introduction to SAT solving, part 1](lecture-notes/2019-10-07-introduction-to-sat-solving-1.pdf) | Lindsey | Sections 2.1-2.2.3 (pp. 27-38) of Kroening and Strichman
+| Wednesday, 10/9  | **Class cancelled due to power outage (please read lecture notes anyway)** <br /> [Introduction to SAT solving, part 2](lecture-notes/2019-10-09-introduction-to-sat-solving-2.pdf) | Lindsey | Sections 2.2.4-2.2.9 (pp. 38-50) of Kroening and Strichman
+| Friday, 10/11    | [Introduction to SMT solving](lecture-notes/2019-10-11-introduction-to-smt-solving.pdf) | Lindsey | Sections 3.1-3.4 (pp. 59-72) of Kroening and Strichman
+| Monday, 10/14    | [Theories: Equality and uninterpreted functions](lecture-notes/2019-10-14-theories-equality-and-uninterpreted-functions.pdf) | Lindsey | Sections 4.1-4.5 (pp. 77-91) of Kroening and Strichman
+| Wednesday, 10/16 | [Theories: Linear arithmetic](lecture-notes/2019-10-16-theories-linear-arithmetic.pdf)  | Lindsey | Sections 5.1-5.2 (pp. 97-106) and 5.7 (pp. 126-128) of Kroening and Strichman
 | Friday, 10/18    | Solver-aided systems                           | Samuel               | Cristian Cadar et al., [EXE: automatically generating inputs of death (CCS 2006)](https://web.stanford.edu/~engler/exe-ccs-06.pdf)
 | Monday, 10/21    | Solver design and implementation               | Will                 | Vijay Ganesh and David L. Dill, [A decision procedure for bit-vectors and arrays (CAV 2007)](https://link.springer.com/chapter/10.1007/978-3-540-73368-3_52) ([off-campus access link](https://link-springer-com.oca.ucsc.edu/chapter/10.1007/978-3-540-73368-3_52))
 | Wednesday, 10/23 | Solver design and implementation               | Clara                | Adam Kiezun et al., [HAMPI: a solver for string constraints (ISSTA 2009)](http://people.csail.mit.edu/akiezun/issta54-kiezun.pdf)
