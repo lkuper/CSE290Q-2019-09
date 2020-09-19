@@ -6,7 +6,13 @@ mainfont: Helvetica
 mathfont: Helvetica
 ---
 
-# Lecture notes for: Marijn J. H. Heule and Oliver Kullmann, "The science of brute force" (CACM 2017)
+# Lecture notes for: "The science of brute force"
+
+Lindsey Kuper
+
+September 30, 2019
+
+These are lecture notes to accompany Marijn J. H. Heule and Oliver Kullmann, "The science of brute force" (CACM 2017).  See <http://composition.al/CSE290Q-2019-09/readings.html> for the full collection of notes.
 
 ## Agenda
 
@@ -17,6 +23,8 @@ mathfont: Helvetica
   - Solver internals: paradigms of SAT solving, CDCL, BCP
   - Illustrating CDCL and BCP: back to Boolean Schur Triples
   - Who watches the watchmen?
+  
+## Welcome to CSE290Q
   
 So, I could have just gone right to the Kroening and Strichman textbook, but I decided to have us start by reading this "Science of Brute Force" article because I thought that might be a little more fun and less dry than the textbook --- the article has some colorful language (like "A mathematician using 'brute force' is a kind of barbaric monster, is she not?")  Maybe you found it fun, maybe you didn't.
 
@@ -173,7 +181,7 @@ These two paradigms are both sound and complete.  If it doesn't give you a satis
 
 ### CDCL
 
-OK, so what is CDCL?  BTW, if you've heard of DPLL (CDCL is the successor to it.  DPLL is the grandaddy of SAT solving algorithms and has been around since the '60s; CDCL is the modern successor to DPLL.  (There'll be more on this in a future reading assignment.)
+OK, so what is CDCL?  BTW, if you've heard of DPLL, CDCL is the successor to it.  DPLL is the grandaddy of SAT solving algorithms and has been around since the '60s; CDCL is the modern successor to DPLL.  (There'll be more on this in a future reading assignment.)
 
 OK, so, CDCL at a very high level (we'll go into more detail on the CDCL algorithm in the coming days):
 

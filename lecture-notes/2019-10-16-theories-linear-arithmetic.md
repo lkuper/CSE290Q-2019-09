@@ -14,11 +14,16 @@ mathfont: Helvetica
 
 # Lecture notes for: Theories: Linear arithmetic
 
+Lindsey Kuper
+
+October 16, 2019
+
+These are lecture notes to accompany sections sections 5.1-5.2 (pp. 97-106) of Kroening and Strichman's _Decision Procedures: An Algorithmic Point of View_, second edition.  See <http://composition.al/CSE290Q-2019-09/readings.html> for the full collection of notes.
+
 ## Agenda
 
   - Flavors of linear arithmetic
   - The simplex algorithm for solving linear real arithmetic formulas
-  - A decision procedure for difference logic
 
 ## Flavors of linear arithmetic
 

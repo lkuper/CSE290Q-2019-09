@@ -12,6 +12,12 @@ mathfont: Helvetica
 
 # Lecture notes for: Introduction to decision procedures, part 2
 
+Lindsey Kuper
+
+October 4, 2019
+
+These are lecture notes to accompany sections 1.4-1.7 (pp. 14-23) of Kroening and Strichman's _Decision Procedures: An Algorithmic Point of View_, second edition.  See <http://composition.al/CSE290Q-2019-09/readings.html> for the full collection of notes.
+
 ## Agenda
 
   - First-order logic
