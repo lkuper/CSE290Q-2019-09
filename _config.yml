@@ -6,6 +6,8 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "default", "dark",
 
 repository: "lkuper/CSE290Q-2019-09"
 
+url: "https://decomposition.al"
+
 baseurl: "/CSE290Q-2019-09"
 
 plugins:
