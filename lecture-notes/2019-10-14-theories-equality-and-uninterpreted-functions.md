@@ -18,7 +18,7 @@ Lindsey Kuper
 
 October 14, 2019
 
-These are lecture notes to accompany sections 3.1-3.4 (pp. 59-72) of Kroening and Strichman's _Decision Procedures: An Algorithmic Point of View_, second edition.  See <http://composition.al/CSE290Q-2019-09/readings.html> for the full collection of notes.
+These are lecture notes to accompany sections 3.1-3.4 (pp. 59-72) of Kroening and Strichman's _Decision Procedures: An Algorithmic Point of View_, second edition.  See <https://decomposition.al/CSE290Q-2019-09/readings.html> for the full collection of notes.
 
 ## Agenda
 

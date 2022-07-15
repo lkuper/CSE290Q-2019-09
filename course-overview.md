@@ -23,10 +23,10 @@ Hi, I'm [Lindsey Kuper](https://users.soe.ucsc.edu/~lkuper/)!  (Call me "Lindsey
   - Satisfies the [breadth requirement](https://www.soe.ucsc.edu/departments/computer-science-and-engineering/graduate/breadth-requirements) in the "Software Engineering and Programming Languages" category for the UCSC CS MS and Ph.D. programs
   - Class meets Mondays, Wednesdays, and Fridays, 2:40-3:45pm, Engineering 2, Room 192
   - No final exam, although you should save the time slot (8-11am on Thursday, December 12) for a social event
-  - Course web page: <http://composition.al/CSE290Q-2019-09/>
+  - Course web page: <https://decomposition.al/CSE290Q-2019-09/>
   - Course GitHub repo: <https://github.com/lkuper/CSE290Q-2019-09/>
   - Canvas: <https://canvas.ucsc.edu/courses/24461>
-  - This document: <http://composition.al/CSE290Q-2019-09/course-overview.html>
+  - This document: <https://decomposition.al/CSE290Q-2019-09/course-overview.html>
 
 ## What's this course about?
 
@@ -159,7 +159,7 @@ Choose several (at least four, possibly many more) related readings that have so
 
 At most one of your selected readings should be one we're already covering in class.  The idea is to use something we read in class as a jumping-off point to go off on your own, explore the literature on a specific topic, and come back with new insights.
 
-Good sources of papers for a literature survey include the related work sections of things we read for class, or the ["further reading" section of the readings page](http://composition.al/CMPS290S-2018-09/readings.html#further-reading).
+Good sources of papers for a literature survey include the related work sections of things we read for class, or the ["further reading" section of the readings page](https://decomposition.al/CMPS290S-2018-09/readings.html#further-reading).
 
 ### Project idea: The experience report
 

@@ -12,7 +12,7 @@ Lindsey Kuper
 
 September 30, 2019
 
-These are lecture notes to accompany Marijn J. H. Heule and Oliver Kullmann, "The science of brute force" (CACM 2017).  See <http://composition.al/CSE290Q-2019-09/readings.html> for the full collection of notes.
+These are lecture notes to accompany Marijn J. H. Heule and Oliver Kullmann, "The science of brute force" (CACM 2017).  See <https://decomposition.al/CSE290Q-2019-09/readings.html> for the full collection of notes.
 
 ## Agenda
 
